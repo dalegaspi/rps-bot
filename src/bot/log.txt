@@ -1,0 +1,2997 @@
+playing game [2] with attacker [carlyRaeJepsen] and key [eNoBIwDc%2fzI1fHwqKnx8Y2FybHlSYWVKZXBzZW58fCoqfHx8fCoqfHww58EM%2fA%3d%3d]
+cell to attack [0:0] owned by carlyRaeJepsen 
+cell to attack [0:1] owned by carlyRaeJepsen 
+no clue found at [0:0]
+no clue found at [0:0]
+no clue found at [0:0]
+no clue found at [0:0]
+cell to attack [0:2] owned by carlyRaeJepsen 
+no clue found at [0:1]
+no clue found at [0:1]
+no clue found at [0:1]
+no clue found at [0:1]
+cell to attack [0:3] owned by carlyRaeJepsen 
+no clue found at [0:2]
+no clue found at [0:2]
+no clue found at [0:2]
+no clue found at [0:2]
+cell to attack [0:4] owned by carlyRaeJepsen 
+no clue found at [0:3]
+no clue found at [0:3]
+no clue found at [0:3]
+no clue found at [0:3]
+cell to attack [0:5] owned by carlyRaeJepsen 
+no clue found at [0:4]
+no clue found at [0:4]
+no clue found at [0:4]
+no clue found at [0:4]
+cell to attack [0:6] owned by carlyRaeJepsen 
+no clue found at [0:5]
+no clue found at [0:5]
+no clue found at [0:5]
+no clue found at [0:5]
+cell to attack [0:7] owned by carlyRaeJepsen 
+no clue found at [0:6]
+no clue found at [0:6]
+no clue found at [0:6]
+no clue found at [0:6]
+cell to attack [0:8] owned by carlyRaeJepsen 
+no clue found at [0:7]
+no clue found at [0:7]
+no clue found at [0:7]
+no clue found at [0:7]
+cell to attack [0:9] owned by carlyRaeJepsen 
+no clue found at [0:8]
+no clue found at [0:8]
+no clue found at [0:8]
+no clue found at [0:8]
+cell to attack [0:10] owned by carlyRaeJepsen 
+no clue found at [0:9]
+no clue found at [0:9]
+no clue found at [0:9]
+no clue found at [0:9]
+cell to attack [0:11] owned by carlyRaeJepsen 
+no clue found at [0:10]
+no clue found at [0:10]
+no clue found at [0:10]
+no clue found at [0:10]
+cell to attack [0:12] owned by carlyRaeJepsen 
+no clue found at [0:11]
+no clue found at [0:11]
+no clue found at [0:11]
+no clue found at [0:11]
+cell to attack [0:13] owned by carlyRaeJepsen 
+no clue found at [0:12]
+no clue found at [0:12]
+no clue found at [0:12]
+no clue found at [0:12]
+cell to attack [0:14] owned by carlyRaeJepsen 
+no clue found at [0:13]
+no clue found at [0:13]
+no clue found at [0:13]
+no clue found at [0:13]
+cell to attack [0:15] owned by carlyRaeJepsen 
+no clue found at [0:14]
+no clue found at [0:14]
+no clue found at [0:14]
+no clue found at [0:14]
+cell to attack [0:16] owned by carlyRaeJepsen 
+no clue found at [0:15]
+no clue found at [0:15]
+no clue found at [0:15]
+no clue found at [0:15]
+cell to attack [0:17] owned by carlyRaeJepsen 
+no clue found at [0:16]
+no clue found at [0:16]
+no clue found at [0:16]
+no clue found at [0:16]
+cell to attack [0:18] owned by carlyRaeJepsen 
+no clue found at [0:17]
+no clue found at [0:17]
+no clue found at [0:17]
+no clue found at [0:17]
+cell to attack [0:19] owned by carlyRaeJepsen 
+no clue found at [0:18]
+no clue found at [0:18]
+no clue found at [0:18]
+no clue found at [0:18]
+cell to attack [0:20] owned by carlyRaeJepsen 
+no clue found at [0:19]
+no clue found at [0:19]
+no clue found at [0:19]
+no clue found at [0:19]
+cell to attack [0:21] owned by carlyRaeJepsen 
+no clue found at [0:20]
+no clue found at [0:20]
+no clue found at [0:20]
+no clue found at [0:20]
+cell to attack [0:22] owned by carlyRaeJepsen 
+clue found at [0:21] : It was not done in the Lounge
+actual clue at [0:21] : Lounge
+cannot solve clue yet; there are 20 remaining clues
+clue found at [0:21] : It was not done in the Lounge
+actual clue at [0:21] : Lounge
+cannot solve clue yet; there are 20 remaining clues
+clue found at [0:21] : It was not done in the Lounge
+actual clue at [0:21] : Lounge
+cannot solve clue yet; there are 20 remaining clues
+clue found at [0:21] : It was not done in the Lounge
+actual clue at [0:21] : Lounge
+cannot solve clue yet; there are 20 remaining clues
+cell to attack [0:23] owned by carlyRaeJepsen 
+no clue found at [0:22]
+no clue found at [0:22]
+no clue found at [0:22]
+no clue found at [0:22]
+cell to attack [0:24] owned by carlyRaeJepsen 
+no clue found at [0:23]
+no clue found at [0:23]
+no clue found at [0:23]
+no clue found at [0:23]
+cell to attack [1:0] owned by carlyRaeJepsen 
+no clue found at [0:24]
+no clue found at [0:24]
+no clue found at [0:24]
+no clue found at [0:24]
+cell to attack [1:1] owned by carlyRaeJepsen 
+no clue found at [1:0]
+no clue found at [1:0]
+no clue found at [1:0]
+no clue found at [1:0]
+cell to attack [1:2] owned by carlyRaeJepsen 
+no clue found at [1:1]
+no clue found at [1:1]
+no clue found at [1:1]
+no clue found at [1:1]
+cell to attack [1:3] owned by carlyRaeJepsen 
+no clue found at [1:2]
+no clue found at [1:2]
+no clue found at [1:2]
+no clue found at [1:2]
+cell to attack [1:4] owned by carlyRaeJepsen 
+no clue found at [1:3]
+no clue found at [1:3]
+no clue found at [1:3]
+no clue found at [1:3]
+cell to attack [1:5] owned by carlyRaeJepsen 
+no clue found at [1:4]
+no clue found at [1:4]
+no clue found at [1:4]
+no clue found at [1:4]
+cell to attack [1:6] owned by carlyRaeJepsen 
+no clue found at [1:5]
+no clue found at [1:5]
+no clue found at [1:5]
+no clue found at [1:5]
+cell to attack [1:7] owned by carlyRaeJepsen 
+no clue found at [1:6]
+no clue found at [1:6]
+no clue found at [1:6]
+no clue found at [1:6]
+cell to attack [1:8] owned by carlyRaeJepsen 
+no clue found at [1:7]
+no clue found at [1:7]
+no clue found at [1:7]
+no clue found at [1:7]
+cell to attack [1:9] owned by carlyRaeJepsen 
+no clue found at [1:8]
+no clue found at [1:8]
+no clue found at [1:8]
+board data updated
+no clue found at [1:8]
+cell to attack [1:10] owned by carlyRaeJepsen 
+no clue found at [1:9]
+no clue found at [1:9]
+no clue found at [1:9]
+no clue found at [1:9]
+cell to attack [1:11] owned by carlyRaeJepsen 
+no clue found at [1:10]
+no clue found at [1:10]
+no clue found at [1:10]
+no clue found at [1:10]
+cell to attack [1:12] owned by carlyRaeJepsen 
+no clue found at [1:11]
+no clue found at [1:11]
+no clue found at [1:11]
+no clue found at [1:11]
+cell to attack [1:13] owned by carlyRaeJepsen 
+no clue found at [1:12]
+no clue found at [1:12]
+no clue found at [1:12]
+no clue found at [1:12]
+cell to attack [1:14] owned by carlyRaeJepsen 
+clue found at [1:13] : It was not done by ReverendGreen
+actual clue at [1:13] : ReverendGreen
+cannot solve clue yet; there are 19 remaining clues
+clue found at [1:13] : It was not done by ReverendGreen
+actual clue at [1:13] : ReverendGreen
+cannot solve clue yet; there are 19 remaining clues
+clue found at [1:13] : It was not done by ReverendGreen
+actual clue at [1:13] : ReverendGreen
+cannot solve clue yet; there are 19 remaining clues
+clue found at [1:13] : It was not done by ReverendGreen
+actual clue at [1:13] : ReverendGreen
+cannot solve clue yet; there are 19 remaining clues
+cell to attack [1:15] owned by carlyRaeJepsen 
+no clue found at [1:14]
+no clue found at [1:14]
+no clue found at [1:14]
+no clue found at [1:14]
+cell to attack [1:16] owned by carlyRaeJepsen 
+no clue found at [1:15]
+no clue found at [1:15]
+no clue found at [1:15]
+no clue found at [1:15]
+cell to attack [1:17] owned by carlyRaeJepsen 
+no clue found at [1:16]
+no clue found at [1:16]
+no clue found at [1:16]
+no clue found at [1:16]
+cell to attack [1:18] owned by carlyRaeJepsen 
+no clue found at [1:17]
+no clue found at [1:17]
+no clue found at [1:17]
+no clue found at [1:17]
+cell to attack [1:19] owned by carlyRaeJepsen 
+no clue found at [1:18]
+no clue found at [1:18]
+no clue found at [1:18]
+no clue found at [1:18]
+cell to attack [1:20] owned by carlyRaeJepsen 
+no clue found at [1:19]
+no clue found at [1:19]
+no clue found at [1:19]
+no clue found at [1:19]
+cell to attack [1:21] owned by carlyRaeJepsen 
+no clue found at [1:20]
+no clue found at [1:20]
+no clue found at [1:20]
+no clue found at [1:20]
+cell to attack [1:22] owned by carlyRaeJepsen 
+no clue found at [1:21]
+no clue found at [1:21]
+no clue found at [1:21]
+no clue found at [1:21]
+cell to attack [1:23] owned by carlyRaeJepsen 
+no clue found at [1:22]
+no clue found at [1:22]
+no clue found at [1:22]
+no clue found at [1:22]
+cell to attack [1:24] owned by carlyRaeJepsen 
+no clue found at [1:23]
+no clue found at [1:23]
+no clue found at [1:23]
+no clue found at [1:23]
+cell to attack [2:0] owned by carlyRaeJepsen 
+no clue found at [1:24]
+no clue found at [1:24]
+no clue found at [1:24]
+no clue found at [1:24]
+cell to attack [2:1] owned by carlyRaeJepsen 
+no clue found at [2:0]
+no clue found at [2:0]
+no clue found at [2:0]
+no clue found at [2:0]
+cell to attack [2:2] owned by carlyRaeJepsen 
+no clue found at [2:1]
+no clue found at [2:1]
+no clue found at [2:1]
+no clue found at [2:1]
+cell to attack [2:3] owned by carlyRaeJepsen 
+no clue found at [2:2]
+no clue found at [2:2]
+no clue found at [2:2]
+no clue found at [2:2]
+cell to attack [2:4] owned by carlyRaeJepsen 
+no clue found at [2:3]
+no clue found at [2:3]
+no clue found at [2:3]
+no clue found at [2:3]
+cell to attack [2:5] owned by carlyRaeJepsen 
+no clue found at [2:4]
+no clue found at [2:4]
+no clue found at [2:4]
+no clue found at [2:4]
+cell to attack [2:6] owned by carlyRaeJepsen 
+no clue found at [2:5]
+no clue found at [2:5]
+no clue found at [2:5]
+no clue found at [2:5]
+cell to attack [2:7] owned by carlyRaeJepsen 
+no clue found at [2:6]
+no clue found at [2:6]
+no clue found at [2:6]
+no clue found at [2:6]
+cell to attack [2:8] owned by carlyRaeJepsen 
+no clue found at [2:7]
+no clue found at [2:7]
+no clue found at [2:7]
+no clue found at [2:7]
+cell to attack [2:9] owned by carlyRaeJepsen 
+no clue found at [2:8]
+no clue found at [2:8]
+no clue found at [2:8]
+no clue found at [2:8]
+cell to attack [2:10] owned by carlyRaeJepsen 
+clue found at [2:9] : It was not done with Wrench
+actual clue at [2:9] : Wrench
+cannot solve clue yet; there are 18 remaining clues
+clue found at [2:9] : It was not done with Wrench
+actual clue at [2:9] : Wrench
+cannot solve clue yet; there are 18 remaining clues
+clue found at [2:9] : It was not done with Wrench
+actual clue at [2:9] : Wrench
+cannot solve clue yet; there are 18 remaining clues
+clue found at [2:9] : It was not done with Wrench
+actual clue at [2:9] : Wrench
+cannot solve clue yet; there are 18 remaining clues
+cell to attack [2:11] owned by carlyRaeJepsen 
+no clue found at [2:10]
+no clue found at [2:10]
+no clue found at [2:10]
+no clue found at [2:10]
+cell to attack [2:12] owned by carlyRaeJepsen 
+no clue found at [2:11]
+no clue found at [2:11]
+no clue found at [2:11]
+no clue found at [2:11]
+cell to attack [2:13] owned by carlyRaeJepsen 
+no clue found at [2:12]
+no clue found at [2:12]
+no clue found at [2:12]
+no clue found at [2:12]
+cell to attack [2:14] owned by carlyRaeJepsen 
+no clue found at [2:13]
+no clue found at [2:13]
+no clue found at [2:13]
+no clue found at [2:13]
+cell to attack [2:15] owned by carlyRaeJepsen 
+no clue found at [2:14]
+no clue found at [2:14]
+no clue found at [2:14]
+no clue found at [2:14]
+cell to attack [2:16] owned by carlyRaeJepsen 
+no clue found at [2:15]
+no clue found at [2:15]
+no clue found at [2:15]
+no clue found at [2:15]
+cell to attack [2:17] owned by carlyRaeJepsen 
+no clue found at [2:16]
+no clue found at [2:16]
+no clue found at [2:16]
+board data updated
+no clue found at [2:16]
+no clue found at [2:17]
+cell to attack [2:18] owned by carlyRaeJepsen 
+no clue found at [2:17]
+no clue found at [2:17]
+no clue found at [2:17]
+cell to attack [2:19] owned by carlyRaeJepsen 
+no clue found at [2:18]
+no clue found at [2:18]
+no clue found at [2:18]
+no clue found at [2:18]
+cell to attack [2:20] owned by carlyRaeJepsen 
+no clue found at [2:19]
+no clue found at [2:19]
+no clue found at [2:19]
+no clue found at [2:19]
+cell to attack [2:21] owned by carlyRaeJepsen 
+no clue found at [2:20]
+no clue found at [2:20]
+no clue found at [2:20]
+no clue found at [2:20]
+cell to attack [2:22] owned by carlyRaeJepsen 
+no clue found at [2:21]
+no clue found at [2:21]
+no clue found at [2:21]
+no clue found at [2:21]
+cell to attack [2:23] owned by carlyRaeJepsen 
+no clue found at [2:22]
+no clue found at [2:22]
+no clue found at [2:22]
+no clue found at [2:22]
+cell to attack [2:24] owned by carlyRaeJepsen 
+no clue found at [2:23]
+no clue found at [2:23]
+no clue found at [2:23]
+no clue found at [2:23]
+cell to attack [3:0] owned by carlyRaeJepsen 
+no clue found at [2:24]
+no clue found at [2:24]
+no clue found at [2:24]
+no clue found at [2:24]
+cell to attack [3:1] owned by carlyRaeJepsen 
+no clue found at [3:0]
+no clue found at [3:0]
+no clue found at [3:0]
+no clue found at [3:0]
+cell to attack [3:2] owned by carlyRaeJepsen 
+no clue found at [3:1]
+no clue found at [3:1]
+no clue found at [3:1]
+no clue found at [3:1]
+cell to attack [3:3] owned by carlyRaeJepsen 
+no clue found at [3:2]
+no clue found at [3:2]
+no clue found at [3:2]
+no clue found at [3:2]
+cell to attack [3:4] owned by carlyRaeJepsen 
+no clue found at [3:3]
+no clue found at [3:3]
+no clue found at [3:3]
+no clue found at [3:3]
+cell to attack [3:5] owned by carlyRaeJepsen 
+no clue found at [3:4]
+no clue found at [3:4]
+no clue found at [3:4]
+no clue found at [3:4]
+cell to attack [3:6] owned by carlyRaeJepsen 
+no clue found at [3:5]
+no clue found at [3:5]
+no clue found at [3:5]
+no clue found at [3:5]
+cell to attack [3:7] owned by carlyRaeJepsen 
+no clue found at [3:6]
+no clue found at [3:6]
+no clue found at [3:6]
+no clue found at [3:6]
+cell to attack [3:8] owned by carlyRaeJepsen 
+no clue found at [3:7]
+no clue found at [3:7]
+no clue found at [3:7]
+no clue found at [3:7]
+cell to attack [3:9] owned by carlyRaeJepsen 
+no clue found at [3:8]
+no clue found at [3:8]
+no clue found at [3:8]
+no clue found at [3:8]
+cell to attack [3:10] owned by carlyRaeJepsen 
+no clue found at [3:9]
+no clue found at [3:9]
+no clue found at [3:9]
+no clue found at [3:9]
+cell to attack [3:11] owned by carlyRaeJepsen 
+no clue found at [3:10]
+no clue found at [3:10]
+no clue found at [3:10]
+no clue found at [3:10]
+cell to attack [3:12] owned by carlyRaeJepsen 
+no clue found at [3:11]
+no clue found at [3:11]
+no clue found at [3:11]
+no clue found at [3:11]
+cell to attack [3:13] owned by carlyRaeJepsen 
+no clue found at [3:12]
+no clue found at [3:12]
+no clue found at [3:12]
+no clue found at [3:12]
+cell to attack [3:14] owned by carlyRaeJepsen 
+no clue found at [3:13]
+no clue found at [3:13]
+no clue found at [3:13]
+no clue found at [3:13]
+cell to attack [3:15] owned by carlyRaeJepsen 
+no clue found at [3:14]
+no clue found at [3:14]
+no clue found at [3:14]
+no clue found at [3:14]
+cell to attack [3:16] owned by carlyRaeJepsen 
+no clue found at [3:15]
+no clue found at [3:15]
+no clue found at [3:15]
+no clue found at [3:15]
+cell to attack [3:17] owned by carlyRaeJepsen 
+no clue found at [3:16]
+no clue found at [3:16]
+no clue found at [3:16]
+no clue found at [3:16]
+cell to attack [3:18] owned by carlyRaeJepsen 
+no clue found at [3:17]
+no clue found at [3:17]
+no clue found at [3:17]
+no clue found at [3:17]
+cell to attack [3:19] owned by carlyRaeJepsen 
+no clue found at [3:18]
+no clue found at [3:18]
+no clue found at [3:18]
+no clue found at [3:18]
+cell to attack [3:20] owned by carlyRaeJepsen 
+no clue found at [3:19]
+no clue found at [3:19]
+no clue found at [3:19]
+no clue found at [3:19]
+cell to attack [3:21] owned by carlyRaeJepsen 
+no clue found at [3:20]
+no clue found at [3:20]
+no clue found at [3:20]
+no clue found at [3:20]
+cell to attack [3:22] owned by carlyRaeJepsen 
+no clue found at [3:21]
+no clue found at [3:21]
+no clue found at [3:21]
+no clue found at [3:21]
+cell to attack [3:23] owned by carlyRaeJepsen 
+no clue found at [3:22]
+no clue found at [3:22]
+no clue found at [3:22]
+no clue found at [3:22]
+cell to attack [3:24] owned by carlyRaeJepsen 
+no clue found at [3:23]
+no clue found at [3:23]
+no clue found at [3:23]
+no clue found at [3:23]
+cell to attack [4:0] owned by carlyRaeJepsen 
+no clue found at [3:24]
+no clue found at [3:24]
+no clue found at [3:24]
+no clue found at [3:24]
+cell to attack [4:1] owned by carlyRaeJepsen 
+no clue found at [4:0]
+no clue found at [4:0]
+no clue found at [4:0]
+no clue found at [4:0]
+cell to attack [4:2] owned by carlyRaeJepsen 
+no clue found at [4:1]
+no clue found at [4:1]
+no clue found at [4:1]
+no clue found at [4:1]
+cell to attack [4:3] owned by carlyRaeJepsen 
+no clue found at [4:2]
+no clue found at [4:2]
+no clue found at [4:2]
+no clue found at [4:2]
+cell to attack [4:4] owned by carlyRaeJepsen 
+no clue found at [4:3]
+no clue found at [4:3]
+no clue found at [4:3]
+no clue found at [4:3]
+cell to attack [4:5] owned by carlyRaeJepsen 
+no clue found at [4:4]
+no clue found at [4:4]
+board data updated
+no clue found at [4:4]
+no clue found at [4:4]
+cell to attack [4:6] owned by carlyRaeJepsen 
+no clue found at [4:5]
+no clue found at [4:5]
+no clue found at [4:5]
+no clue found at [4:5]
+cell to attack [4:7] owned by carlyRaeJepsen 
+no clue found at [4:6]
+no clue found at [4:6]
+no clue found at [4:6]
+no clue found at [4:6]
+cell to attack [4:8] owned by carlyRaeJepsen 
+no clue found at [4:7]
+no clue found at [4:7]
+no clue found at [4:7]
+no clue found at [4:7]
+cell to attack [4:9] owned by carlyRaeJepsen 
+no clue found at [4:8]
+no clue found at [4:8]
+no clue found at [4:8]
+no clue found at [4:8]
+cell to attack [4:10] owned by carlyRaeJepsen 
+no clue found at [4:9]
+no clue found at [4:9]
+no clue found at [4:9]
+no clue found at [4:9]
+cell to attack [4:11] owned by carlyRaeJepsen 
+no clue found at [4:10]
+no clue found at [4:10]
+no clue found at [4:10]
+no clue found at [4:10]
+cell to attack [4:12] owned by carlyRaeJepsen 
+no clue found at [4:11]
+no clue found at [4:11]
+no clue found at [4:11]
+no clue found at [4:11]
+cell to attack [4:13] owned by carlyRaeJepsen 
+no clue found at [4:12]
+no clue found at [4:12]
+no clue found at [4:12]
+no clue found at [4:12]
+cell to attack [4:14] owned by carlyRaeJepsen 
+no clue found at [4:13]
+no clue found at [4:13]
+no clue found at [4:13]
+no clue found at [4:13]
+cell to attack [4:15] owned by carlyRaeJepsen 
+no clue found at [4:14]
+no clue found at [4:14]
+no clue found at [4:14]
+no clue found at [4:14]
+cell to attack [4:16] owned by carlyRaeJepsen 
+no clue found at [4:15]
+no clue found at [4:15]
+no clue found at [4:15]
+no clue found at [4:15]
+cell to attack [4:17] owned by carlyRaeJepsen 
+no clue found at [4:16]
+no clue found at [4:16]
+no clue found at [4:16]
+no clue found at [4:16]
+cell to attack [4:18] owned by carlyRaeJepsen 
+no clue found at [4:17]
+no clue found at [4:17]
+no clue found at [4:17]
+no clue found at [4:17]
+cell to attack [4:19] owned by carlyRaeJepsen 
+no clue found at [4:18]
+no clue found at [4:18]
+no clue found at [4:18]
+no clue found at [4:18]
+cell to attack [4:20] owned by carlyRaeJepsen 
+no clue found at [4:19]
+no clue found at [4:19]
+no clue found at [4:19]
+no clue found at [4:19]
+cell to attack [4:21] owned by carlyRaeJepsen 
+no clue found at [4:20]
+no clue found at [4:20]
+no clue found at [4:20]
+no clue found at [4:20]
+cell to attack [4:22] owned by carlyRaeJepsen 
+no clue found at [4:21]
+no clue found at [4:21]
+no clue found at [4:21]
+no clue found at [4:21]
+cell to attack [4:23] owned by carlyRaeJepsen 
+no clue found at [4:22]
+no clue found at [4:22]
+no clue found at [4:22]
+no clue found at [4:22]
+cell to attack [4:24] owned by carlyRaeJepsen 
+no clue found at [4:23]
+no clue found at [4:23]
+no clue found at [4:23]
+no clue found at [4:23]
+cell to attack [5:0] owned by carlyRaeJepsen 
+no clue found at [4:24]
+no clue found at [4:24]
+no clue found at [4:24]
+no clue found at [4:24]
+cell to attack [5:1] owned by carlyRaeJepsen 
+no clue found at [5:0]
+no clue found at [5:0]
+no clue found at [5:0]
+no clue found at [5:0]
+cell to attack [5:2] owned by carlyRaeJepsen 
+no clue found at [5:1]
+no clue found at [5:1]
+no clue found at [5:1]
+no clue found at [5:1]
+cell to attack [5:3] owned by carlyRaeJepsen 
+no clue found at [5:2]
+no clue found at [5:2]
+no clue found at [5:2]
+no clue found at [5:2]
+cell to attack [5:4] owned by carlyRaeJepsen 
+no clue found at [5:3]
+no clue found at [5:3]
+no clue found at [5:3]
+no clue found at [5:3]
+cell to attack [5:5] owned by carlyRaeJepsen 
+no clue found at [5:4]
+no clue found at [5:4]
+no clue found at [5:4]
+no clue found at [5:4]
+cell to attack [5:6] owned by carlyRaeJepsen 
+no clue found at [5:5]
+no clue found at [5:5]
+no clue found at [5:5]
+no clue found at [5:5]
+cell to attack [5:7] owned by carlyRaeJepsen 
+no clue found at [5:6]
+no clue found at [5:6]
+no clue found at [5:6]
+no clue found at [5:6]
+cell to attack [5:8] owned by carlyRaeJepsen 
+no clue found at [5:7]
+no clue found at [5:7]
+no clue found at [5:7]
+no clue found at [5:7]
+cell to attack [5:9] owned by carlyRaeJepsen 
+no clue found at [5:8]
+no clue found at [5:8]
+no clue found at [5:8]
+no clue found at [5:8]
+cell to attack [5:10] owned by carlyRaeJepsen 
+no clue found at [5:9]
+no clue found at [5:9]
+no clue found at [5:9]
+no clue found at [5:9]
+cell to attack [5:11] owned by carlyRaeJepsen 
+no clue found at [5:10]
+no clue found at [5:10]
+no clue found at [5:10]
+no clue found at [5:10]
+cell to attack [5:12] owned by carlyRaeJepsen 
+no clue found at [5:11]
+no clue found at [5:11]
+no clue found at [5:11]
+no clue found at [5:11]
+cell to attack [5:13] owned by carlyRaeJepsen 
+no clue found at [5:12]
+no clue found at [5:12]
+no clue found at [5:12]
+no clue found at [5:12]
+cell to attack [5:14] owned by carlyRaeJepsen 
+no clue found at [5:13]
+no clue found at [5:13]
+no clue found at [5:13]
+no clue found at [5:13]
+cell to attack [5:15] owned by carlyRaeJepsen 
+clue found at [5:14] : It was not done with Rope
+actual clue at [5:14] : Rope
+cannot solve clue yet; there are 17 remaining clues
+clue found at [5:14] : It was not done with Rope
+actual clue at [5:14] : Rope
+cannot solve clue yet; there are 17 remaining clues
+clue found at [5:14] : It was not done with Rope
+actual clue at [5:14] : Rope
+cannot solve clue yet; there are 17 remaining clues
+clue found at [5:14] : It was not done with Rope
+actual clue at [5:14] : Rope
+cannot solve clue yet; there are 17 remaining clues
+cell to attack [5:16] owned by carlyRaeJepsen 
+board data updated
+no clue found at [5:15]
+no clue found at [5:15]
+no clue found at [5:15]
+no clue found at [5:15]
+cell to attack [5:17] owned by carlyRaeJepsen 
+no clue found at [5:16]
+no clue found at [5:16]
+no clue found at [5:16]
+no clue found at [5:16]
+cell to attack [5:18] owned by carlyRaeJepsen 
+no clue found at [5:17]
+no clue found at [5:17]
+no clue found at [5:17]
+no clue found at [5:17]
+cell to attack [5:19] owned by carlyRaeJepsen 
+no clue found at [5:18]
+no clue found at [5:18]
+no clue found at [5:18]
+no clue found at [5:18]
+cell to attack [5:20] owned by carlyRaeJepsen 
+no clue found at [5:19]
+no clue found at [5:19]
+no clue found at [5:19]
+no clue found at [5:19]
+cell to attack [5:21] owned by carlyRaeJepsen 
+no clue found at [5:20]
+no clue found at [5:20]
+no clue found at [5:20]
+no clue found at [5:20]
+cell to attack [5:22] owned by carlyRaeJepsen 
+no clue found at [5:21]
+no clue found at [5:21]
+no clue found at [5:21]
+no clue found at [5:21]
+cell to attack [5:23] owned by carlyRaeJepsen 
+no clue found at [5:22]
+no clue found at [5:22]
+no clue found at [5:22]
+no clue found at [5:22]
+cell to attack [5:24] owned by carlyRaeJepsen 
+no clue found at [5:23]
+no clue found at [5:23]
+no clue found at [5:23]
+no clue found at [5:23]
+cell to attack [6:0] owned by carlyRaeJepsen 
+no clue found at [5:24]
+no clue found at [5:24]
+no clue found at [5:24]
+no clue found at [5:24]
+cell to attack [6:1] owned by carlyRaeJepsen 
+no clue found at [6:0]
+no clue found at [6:0]
+no clue found at [6:0]
+no clue found at [6:0]
+cell to attack [6:2] owned by carlyRaeJepsen 
+no clue found at [6:1]
+no clue found at [6:1]
+no clue found at [6:1]
+no clue found at [6:1]
+cell to attack [6:3] owned by carlyRaeJepsen 
+clue found at [6:2] : It was not done in the DiningRoom
+actual clue at [6:2] : DiningRoom
+cannot solve clue yet; there are 16 remaining clues
+clue found at [6:2] : It was not done in the DiningRoom
+actual clue at [6:2] : DiningRoom
+cannot solve clue yet; there are 16 remaining clues
+clue found at [6:2] : It was not done in the DiningRoom
+actual clue at [6:2] : DiningRoom
+cannot solve clue yet; there are 16 remaining clues
+clue found at [6:2] : It was not done in the DiningRoom
+actual clue at [6:2] : DiningRoom
+cannot solve clue yet; there are 16 remaining clues
+cell to attack [6:4] owned by carlyRaeJepsen 
+no clue found at [6:3]
+no clue found at [6:3]
+no clue found at [6:3]
+no clue found at [6:3]
+cell to attack [6:5] owned by carlyRaeJepsen 
+no clue found at [6:4]
+no clue found at [6:4]
+no clue found at [6:4]
+no clue found at [6:4]
+cell to attack [6:6] owned by carlyRaeJepsen 
+no clue found at [6:5]
+no clue found at [6:5]
+no clue found at [6:5]
+no clue found at [6:5]
+cell to attack [6:7] owned by carlyRaeJepsen 
+no clue found at [6:6]
+no clue found at [6:6]
+no clue found at [6:6]
+no clue found at [6:6]
+cell to attack [6:8] owned by carlyRaeJepsen 
+no clue found at [6:7]
+no clue found at [6:7]
+no clue found at [6:7]
+no clue found at [6:7]
+cell to attack [6:9] owned by carlyRaeJepsen 
+no clue found at [6:8]
+no clue found at [6:8]
+no clue found at [6:8]
+no clue found at [6:8]
+cell to attack [6:10] owned by carlyRaeJepsen 
+no clue found at [6:9]
+no clue found at [6:9]
+no clue found at [6:9]
+no clue found at [6:9]
+cell to attack [6:11] owned by carlyRaeJepsen 
+no clue found at [6:10]
+no clue found at [6:10]
+no clue found at [6:10]
+no clue found at [6:10]
+cell to attack [6:12] owned by carlyRaeJepsen 
+no clue found at [6:11]
+no clue found at [6:11]
+no clue found at [6:11]
+no clue found at [6:11]
+cell to attack [6:13] owned by carlyRaeJepsen 
+no clue found at [6:12]
+no clue found at [6:12]
+no clue found at [6:12]
+no clue found at [6:12]
+cell to attack [6:14] owned by carlyRaeJepsen 
+no clue found at [6:13]
+no clue found at [6:13]
+no clue found at [6:13]
+no clue found at [6:13]
+cell to attack [6:15] owned by carlyRaeJepsen 
+no clue found at [6:14]
+no clue found at [6:14]
+no clue found at [6:14]
+no clue found at [6:14]
+cell to attack [6:16] owned by carlyRaeJepsen 
+no clue found at [6:15]
+no clue found at [6:15]
+no clue found at [6:15]
+no clue found at [6:15]
+cell to attack [6:17] owned by carlyRaeJepsen 
+no clue found at [6:16]
+no clue found at [6:16]
+no clue found at [6:16]
+no clue found at [6:16]
+cell to attack [6:18] owned by carlyRaeJepsen 
+no clue found at [6:17]
+no clue found at [6:17]
+no clue found at [6:17]
+no clue found at [6:17]
+cell to attack [6:19] owned by carlyRaeJepsen 
+no clue found at [6:18]
+no clue found at [6:18]
+no clue found at [6:18]
+no clue found at [6:18]
+cell to attack [6:20] owned by carlyRaeJepsen 
+no clue found at [6:19]
+no clue found at [6:19]
+no clue found at [6:19]
+no clue found at [6:19]
+cell to attack [6:21] owned by carlyRaeJepsen 
+no clue found at [6:20]
+no clue found at [6:20]
+no clue found at [6:20]
+no clue found at [6:20]
+cell to attack [6:22] owned by carlyRaeJepsen 
+no clue found at [6:21]
+no clue found at [6:21]
+no clue found at [6:21]
+no clue found at [6:21]
+cell to attack [6:23] owned by carlyRaeJepsen 
+no clue found at [6:22]
+no clue found at [6:22]
+no clue found at [6:22]
+no clue found at [6:22]
+cell to attack [6:24] owned by carlyRaeJepsen 
+no clue found at [6:23]
+no clue found at [6:23]
+no clue found at [6:23]
+no clue found at [6:23]
+cell to attack [7:0] owned by carlyRaeJepsen 
+no clue found at [6:24]
+no clue found at [6:24]
+no clue found at [6:24]
+no clue found at [6:24]
+cell to attack [7:1] owned by carlyRaeJepsen 
+no clue found at [7:0]
+no clue found at [7:0]
+no clue found at [7:0]
+no clue found at [7:0]
+cell to attack [7:2] owned by carlyRaeJepsen 
+no clue found at [7:1]
+no clue found at [7:1]
+no clue found at [7:1]
+board data updated
+no clue found at [7:1]
+no clue found at [7:2]
+cell to attack [7:3] owned by carlyRaeJepsen 
+no clue found at [7:2]
+no clue found at [7:2]
+no clue found at [7:2]
+cell to attack [7:4] owned by carlyRaeJepsen 
+no clue found at [7:3]
+no clue found at [7:3]
+no clue found at [7:3]
+no clue found at [7:3]
+cell to attack [7:5] owned by carlyRaeJepsen 
+no clue found at [7:4]
+no clue found at [7:4]
+no clue found at [7:4]
+no clue found at [7:4]
+cell to attack [7:6] owned by carlyRaeJepsen 
+no clue found at [7:5]
+no clue found at [7:5]
+no clue found at [7:5]
+no clue found at [7:5]
+cell to attack [7:7] owned by carlyRaeJepsen 
+no clue found at [7:6]
+no clue found at [7:6]
+no clue found at [7:6]
+no clue found at [7:6]
+cell to attack [7:8] owned by carlyRaeJepsen 
+no clue found at [7:7]
+no clue found at [7:7]
+no clue found at [7:7]
+no clue found at [7:7]
+cell to attack [7:9] owned by carlyRaeJepsen 
+no clue found at [7:8]
+no clue found at [7:8]
+no clue found at [7:8]
+no clue found at [7:8]
+cell to attack [7:10] owned by carlyRaeJepsen 
+no clue found at [7:9]
+no clue found at [7:9]
+no clue found at [7:9]
+no clue found at [7:9]
+cell to attack [7:11] owned by carlyRaeJepsen 
+no clue found at [7:10]
+no clue found at [7:10]
+no clue found at [7:10]
+no clue found at [7:10]
+cell to attack [7:12] owned by carlyRaeJepsen 
+no clue found at [7:11]
+no clue found at [7:11]
+no clue found at [7:11]
+no clue found at [7:11]
+cell to attack [7:13] owned by carlyRaeJepsen 
+no clue found at [7:12]
+no clue found at [7:12]
+no clue found at [7:12]
+no clue found at [7:12]
+cell to attack [7:14] owned by carlyRaeJepsen 
+no clue found at [7:13]
+no clue found at [7:13]
+no clue found at [7:13]
+no clue found at [7:13]
+cell to attack [7:15] owned by carlyRaeJepsen 
+no clue found at [7:14]
+no clue found at [7:14]
+no clue found at [7:14]
+no clue found at [7:14]
+cell to attack [7:16] owned by carlyRaeJepsen 
+clue found at [7:15] : It was not done in the Study
+actual clue at [7:15] : Study
+cannot solve clue yet; there are 15 remaining clues
+clue found at [7:15] : It was not done in the Study
+actual clue at [7:15] : Study
+cannot solve clue yet; there are 15 remaining clues
+clue found at [7:15] : It was not done in the Study
+actual clue at [7:15] : Study
+cannot solve clue yet; there are 15 remaining clues
+clue found at [7:15] : It was not done in the Study
+actual clue at [7:15] : Study
+cannot solve clue yet; there are 15 remaining clues
+cell to attack [7:17] owned by carlyRaeJepsen 
+no clue found at [7:16]
+no clue found at [7:16]
+no clue found at [7:16]
+no clue found at [7:16]
+cell to attack [7:18] owned by carlyRaeJepsen 
+no clue found at [7:17]
+no clue found at [7:17]
+no clue found at [7:17]
+no clue found at [7:17]
+cell to attack [7:19] owned by carlyRaeJepsen 
+no clue found at [7:18]
+no clue found at [7:18]
+no clue found at [7:18]
+no clue found at [7:18]
+cell to attack [7:20] owned by carlyRaeJepsen 
+no clue found at [7:19]
+no clue found at [7:19]
+no clue found at [7:19]
+no clue found at [7:19]
+cell to attack [7:21] owned by carlyRaeJepsen 
+no clue found at [7:20]
+no clue found at [7:20]
+no clue found at [7:20]
+no clue found at [7:20]
+cell to attack [7:22] owned by carlyRaeJepsen 
+no clue found at [7:21]
+no clue found at [7:21]
+no clue found at [7:21]
+no clue found at [7:21]
+cell to attack [7:23] owned by carlyRaeJepsen 
+no clue found at [7:22]
+no clue found at [7:22]
+no clue found at [7:22]
+no clue found at [7:22]
+cell to attack [7:24] owned by carlyRaeJepsen 
+no clue found at [7:23]
+no clue found at [7:23]
+no clue found at [7:23]
+no clue found at [7:23]
+cell to attack [8:0] owned by carlyRaeJepsen 
+no clue found at [7:24]
+no clue found at [7:24]
+no clue found at [7:24]
+no clue found at [7:24]
+cell to attack [8:1] owned by carlyRaeJepsen 
+no clue found at [8:0]
+no clue found at [8:0]
+no clue found at [8:0]
+no clue found at [8:0]
+cell to attack [8:2] owned by carlyRaeJepsen 
+no clue found at [8:1]
+no clue found at [8:1]
+no clue found at [8:1]
+no clue found at [8:1]
+cell to attack [8:3] owned by carlyRaeJepsen 
+no clue found at [8:2]
+no clue found at [8:2]
+no clue found at [8:2]
+no clue found at [8:2]
+cell to attack [8:4] owned by carlyRaeJepsen 
+no clue found at [8:3]
+no clue found at [8:3]
+no clue found at [8:3]
+no clue found at [8:3]
+cell to attack [8:5] owned by carlyRaeJepsen 
+no clue found at [8:4]
+no clue found at [8:4]
+no clue found at [8:4]
+no clue found at [8:4]
+cell to attack [8:6] owned by carlyRaeJepsen 
+no clue found at [8:5]
+no clue found at [8:5]
+no clue found at [8:5]
+no clue found at [8:5]
+cell to attack [8:7] owned by carlyRaeJepsen 
+no clue found at [8:6]
+no clue found at [8:6]
+no clue found at [8:6]
+no clue found at [8:6]
+cell to attack [8:8] owned by carlyRaeJepsen 
+no clue found at [8:7]
+no clue found at [8:7]
+no clue found at [8:7]
+no clue found at [8:7]
+cell to attack [8:9] owned by carlyRaeJepsen 
+no clue found at [8:8]
+no clue found at [8:8]
+no clue found at [8:8]
+no clue found at [8:8]
+cell to attack [8:10] owned by carlyRaeJepsen 
+no clue found at [8:9]
+no clue found at [8:9]
+no clue found at [8:9]
+no clue found at [8:9]
+cell to attack [8:11] owned by carlyRaeJepsen 
+no clue found at [8:10]
+no clue found at [8:10]
+no clue found at [8:10]
+no clue found at [8:10]
+cell to attack [8:12] owned by carlyRaeJepsen 
+no clue found at [8:11]
+no clue found at [8:11]
+board data updated
+no clue found at [8:11]
+no clue found at [8:11]
+cell to attack [8:13] owned by carlyRaeJepsen 
+no clue found at [8:12]
+no clue found at [8:12]
+no clue found at [8:12]
+no clue found at [8:12]
+cell to attack [8:14] owned by carlyRaeJepsen 
+no clue found at [8:13]
+no clue found at [8:13]
+no clue found at [8:13]
+no clue found at [8:13]
+cell to attack [8:15] owned by carlyRaeJepsen 
+no clue found at [8:14]
+no clue found at [8:14]
+no clue found at [8:14]
+no clue found at [8:14]
+cell to attack [8:16] owned by carlyRaeJepsen 
+no clue found at [8:15]
+no clue found at [8:15]
+no clue found at [8:15]
+no clue found at [8:15]
+cell to attack [8:17] owned by carlyRaeJepsen 
+no clue found at [8:16]
+no clue found at [8:16]
+no clue found at [8:16]
+no clue found at [8:16]
+cell to attack [8:18] owned by carlyRaeJepsen 
+no clue found at [8:17]
+no clue found at [8:17]
+no clue found at [8:17]
+no clue found at [8:17]
+cell to attack [8:19] owned by carlyRaeJepsen 
+no clue found at [8:18]
+no clue found at [8:18]
+no clue found at [8:18]
+no clue found at [8:18]
+cell to attack [8:20] owned by carlyRaeJepsen 
+no clue found at [8:19]
+no clue found at [8:19]
+no clue found at [8:19]
+no clue found at [8:19]
+cell to attack [8:21] owned by carlyRaeJepsen 
+no clue found at [8:20]
+no clue found at [8:20]
+no clue found at [8:20]
+no clue found at [8:20]
+cell to attack [8:22] owned by carlyRaeJepsen 
+no clue found at [8:21]
+no clue found at [8:21]
+no clue found at [8:21]
+no clue found at [8:21]
+cell to attack [8:23] owned by carlyRaeJepsen 
+no clue found at [8:22]
+no clue found at [8:22]
+no clue found at [8:22]
+no clue found at [8:22]
+cell to attack [8:24] owned by carlyRaeJepsen 
+no clue found at [8:23]
+no clue found at [8:23]
+no clue found at [8:23]
+no clue found at [8:23]
+cell to attack [9:0] owned by carlyRaeJepsen 
+no clue found at [8:24]
+no clue found at [8:24]
+no clue found at [8:24]
+no clue found at [8:24]
+cell to attack [9:1] owned by carlyRaeJepsen 
+no clue found at [9:0]
+no clue found at [9:0]
+no clue found at [9:0]
+no clue found at [9:0]
+cell to attack [9:2] owned by carlyRaeJepsen 
+no clue found at [9:1]
+no clue found at [9:1]
+no clue found at [9:1]
+no clue found at [9:1]
+cell to attack [9:3] owned by carlyRaeJepsen 
+no clue found at [9:2]
+no clue found at [9:2]
+no clue found at [9:2]
+no clue found at [9:2]
+cell to attack [9:4] owned by carlyRaeJepsen 
+no clue found at [9:3]
+no clue found at [9:3]
+no clue found at [9:3]
+no clue found at [9:3]
+cell to attack [9:5] owned by carlyRaeJepsen 
+no clue found at [9:4]
+no clue found at [9:4]
+no clue found at [9:4]
+no clue found at [9:4]
+cell to attack [9:6] owned by carlyRaeJepsen 
+no clue found at [9:5]
+no clue found at [9:5]
+no clue found at [9:5]
+no clue found at [9:5]
+cell to attack [9:7] owned by carlyRaeJepsen 
+no clue found at [9:6]
+no clue found at [9:6]
+no clue found at [9:6]
+no clue found at [9:6]
+cell to attack [9:8] owned by carlyRaeJepsen 
+no clue found at [9:7]
+no clue found at [9:7]
+no clue found at [9:7]
+no clue found at [9:7]
+cell to attack [9:9] owned by carlyRaeJepsen 
+no clue found at [9:8]
+no clue found at [9:8]
+no clue found at [9:8]
+no clue found at [9:8]
+cell to attack [9:10] owned by carlyRaeJepsen 
+no clue found at [9:9]
+no clue found at [9:9]
+no clue found at [9:9]
+no clue found at [9:9]
+cell to attack [9:11] owned by carlyRaeJepsen 
+no clue found at [9:10]
+no clue found at [9:10]
+no clue found at [9:10]
+no clue found at [9:10]
+cell to attack [9:12] owned by carlyRaeJepsen 
+no clue found at [9:11]
+no clue found at [9:11]
+no clue found at [9:11]
+no clue found at [9:11]
+cell to attack [9:13] owned by carlyRaeJepsen 
+no clue found at [9:12]
+no clue found at [9:12]
+no clue found at [9:12]
+no clue found at [9:12]
+cell to attack [9:14] owned by carlyRaeJepsen 
+no clue found at [9:13]
+no clue found at [9:13]
+no clue found at [9:13]
+no clue found at [9:13]
+cell to attack [9:15] owned by carlyRaeJepsen 
+no clue found at [9:14]
+no clue found at [9:14]
+no clue found at [9:14]
+no clue found at [9:14]
+cell to attack [9:16] owned by carlyRaeJepsen 
+no clue found at [9:15]
+no clue found at [9:15]
+no clue found at [9:15]
+no clue found at [9:15]
+cell to attack [9:17] owned by carlyRaeJepsen 
+no clue found at [9:16]
+no clue found at [9:16]
+no clue found at [9:16]
+no clue found at [9:16]
+cell to attack [9:18] owned by carlyRaeJepsen 
+no clue found at [9:17]
+no clue found at [9:17]
+no clue found at [9:17]
+no clue found at [9:17]
+cell to attack [9:19] owned by carlyRaeJepsen 
+clue found at [9:18] : It was not done by MrsPeacock
+actual clue at [9:18] : MrsPeacock
+cannot solve clue yet; there are 14 remaining clues
+clue found at [9:18] : It was not done by MrsPeacock
+actual clue at [9:18] : MrsPeacock
+cannot solve clue yet; there are 14 remaining clues
+clue found at [9:18] : It was not done by MrsPeacock
+actual clue at [9:18] : MrsPeacock
+cannot solve clue yet; there are 14 remaining clues
+clue found at [9:18] : It was not done by MrsPeacock
+actual clue at [9:18] : MrsPeacock
+cannot solve clue yet; there are 14 remaining clues
+cell to attack [9:20] owned by carlyRaeJepsen 
+no clue found at [9:19]
+no clue found at [9:19]
+no clue found at [9:19]
+no clue found at [9:19]
+cell to attack [9:21] owned by carlyRaeJepsen 
+no clue found at [9:20]
+no clue found at [9:20]
+no clue found at [9:20]
+no clue found at [9:20]
+cell to attack [9:22] owned by carlyRaeJepsen 
+no clue found at [9:21]
+no clue found at [9:21]
+no clue found at [9:21]
+no clue found at [9:21]
+cell to attack [9:23] owned by carlyRaeJepsen 
+no clue found at [9:22]
+no clue found at [9:22]
+no clue found at [9:22]
+no clue found at [9:22]
+cell to attack [9:24] owned by carlyRaeJepsen 
+no clue found at [9:23]
+no clue found at [9:23]
+no clue found at [9:23]
+no clue found at [9:23]
+cell to attack [10:0] owned by carlyRaeJepsen 
+no clue found at [9:24]
+no clue found at [9:24]
+board data updated
+no clue found at [9:24]
+no clue found at [9:24]
+cell to attack [10:1] owned by carlyRaeJepsen 
+clue found at [10:0] : It was not done in the Hall
+actual clue at [10:0] : Hall
+cannot solve clue yet; there are 13 remaining clues
+clue found at [10:0] : It was not done in the Hall
+actual clue at [10:0] : Hall
+cannot solve clue yet; there are 13 remaining clues
+clue found at [10:0] : It was not done in the Hall
+actual clue at [10:0] : Hall
+cannot solve clue yet; there are 13 remaining clues
+clue found at [10:0] : It was not done in the Hall
+actual clue at [10:0] : Hall
+cannot solve clue yet; there are 13 remaining clues
+cell to attack [10:2] owned by carlyRaeJepsen 
+no clue found at [10:1]
+no clue found at [10:1]
+no clue found at [10:1]
+no clue found at [10:1]
+cell to attack [10:3] owned by carlyRaeJepsen 
+no clue found at [10:2]
+no clue found at [10:2]
+no clue found at [10:2]
+no clue found at [10:2]
+cell to attack [10:4] owned by carlyRaeJepsen 
+no clue found at [10:3]
+no clue found at [10:3]
+no clue found at [10:3]
+no clue found at [10:3]
+cell to attack [10:5] owned by carlyRaeJepsen 
+no clue found at [10:4]
+no clue found at [10:4]
+no clue found at [10:4]
+no clue found at [10:4]
+cell to attack [10:6] owned by carlyRaeJepsen 
+no clue found at [10:5]
+no clue found at [10:5]
+no clue found at [10:5]
+no clue found at [10:5]
+cell to attack [10:7] owned by carlyRaeJepsen 
+no clue found at [10:6]
+no clue found at [10:6]
+no clue found at [10:6]
+no clue found at [10:6]
+cell to attack [10:8] owned by carlyRaeJepsen 
+no clue found at [10:7]
+no clue found at [10:7]
+no clue found at [10:7]
+no clue found at [10:7]
+cell to attack [10:9] owned by carlyRaeJepsen 
+no clue found at [10:8]
+no clue found at [10:8]
+no clue found at [10:8]
+no clue found at [10:8]
+cell to attack [10:10] owned by carlyRaeJepsen 
+no clue found at [10:9]
+no clue found at [10:9]
+no clue found at [10:9]
+no clue found at [10:9]
+cell to attack [10:11] owned by carlyRaeJepsen 
+no clue found at [10:10]
+no clue found at [10:10]
+no clue found at [10:10]
+no clue found at [10:10]
+cell to attack [10:12] owned by carlyRaeJepsen 
+no clue found at [10:11]
+no clue found at [10:11]
+no clue found at [10:11]
+no clue found at [10:11]
+cell to attack [10:13] owned by carlyRaeJepsen 
+no clue found at [10:12]
+no clue found at [10:12]
+no clue found at [10:12]
+no clue found at [10:12]
+cell to attack [10:14] owned by carlyRaeJepsen 
+no clue found at [10:13]
+no clue found at [10:13]
+no clue found at [10:13]
+no clue found at [10:13]
+cell to attack [10:15] owned by carlyRaeJepsen 
+no clue found at [10:14]
+no clue found at [10:14]
+no clue found at [10:14]
+no clue found at [10:14]
+cell to attack [10:16] owned by carlyRaeJepsen 
+no clue found at [10:15]
+no clue found at [10:15]
+no clue found at [10:15]
+no clue found at [10:15]
+cell to attack [10:17] owned by carlyRaeJepsen 
+clue found at [10:16] : It was not done in the Kitchen
+actual clue at [10:16] : Kitchen
+cannot solve clue yet; there are 12 remaining clues
+clue found at [10:16] : It was not done in the Kitchen
+actual clue at [10:16] : Kitchen
+cannot solve clue yet; there are 12 remaining clues
+clue found at [10:16] : It was not done in the Kitchen
+actual clue at [10:16] : Kitchen
+cannot solve clue yet; there are 12 remaining clues
+clue found at [10:16] : It was not done in the Kitchen
+actual clue at [10:16] : Kitchen
+cannot solve clue yet; there are 12 remaining clues
+cell to attack [10:18] owned by carlyRaeJepsen 
+no clue found at [10:17]
+no clue found at [10:17]
+no clue found at [10:17]
+no clue found at [10:17]
+cell to attack [10:19] owned by carlyRaeJepsen 
+no clue found at [10:18]
+no clue found at [10:18]
+no clue found at [10:18]
+no clue found at [10:18]
+cell to attack [10:20] owned by carlyRaeJepsen 
+no clue found at [10:19]
+no clue found at [10:19]
+no clue found at [10:19]
+no clue found at [10:19]
+cell to attack [10:21] owned by carlyRaeJepsen 
+no clue found at [10:20]
+no clue found at [10:20]
+no clue found at [10:20]
+no clue found at [10:20]
+cell to attack [10:22] owned by carlyRaeJepsen 
+no clue found at [10:21]
+no clue found at [10:21]
+no clue found at [10:21]
+no clue found at [10:21]
+cell to attack [10:23] owned by carlyRaeJepsen 
+no clue found at [10:22]
+no clue found at [10:22]
+no clue found at [10:22]
+no clue found at [10:22]
+cell to attack [10:24] owned by carlyRaeJepsen 
+no clue found at [10:23]
+no clue found at [10:23]
+no clue found at [10:23]
+no clue found at [10:23]
+cell to attack [11:0] owned by carlyRaeJepsen 
+no clue found at [10:24]
+no clue found at [10:24]
+no clue found at [10:24]
+no clue found at [10:24]
+cell to attack [11:1] owned by carlyRaeJepsen 
+no clue found at [11:0]
+no clue found at [11:0]
+no clue found at [11:0]
+no clue found at [11:0]
+cell to attack [11:2] owned by carlyRaeJepsen 
+no clue found at [11:1]
+no clue found at [11:1]
+no clue found at [11:1]
+no clue found at [11:1]
+cell to attack [11:3] owned by carlyRaeJepsen 
+no clue found at [11:2]
+no clue found at [11:2]
+no clue found at [11:2]
+no clue found at [11:2]
+cell to attack [11:4] owned by carlyRaeJepsen 
+no clue found at [11:3]
+no clue found at [11:3]
+no clue found at [11:3]
+no clue found at [11:3]
+cell to attack [11:5] owned by carlyRaeJepsen 
+no clue found at [11:4]
+no clue found at [11:4]
+no clue found at [11:4]
+no clue found at [11:4]
+cell to attack [11:6] owned by carlyRaeJepsen 
+no clue found at [11:5]
+no clue found at [11:5]
+no clue found at [11:5]
+no clue found at [11:5]
+cell to attack [11:7] owned by carlyRaeJepsen 
+no clue found at [11:6]
+no clue found at [11:6]
+no clue found at [11:6]
+no clue found at [11:6]
+cell to attack [11:8] owned by carlyRaeJepsen 
+no clue found at [11:7]
+no clue found at [11:7]
+no clue found at [11:7]
+no clue found at [11:7]
+cell to attack [11:9] owned by carlyRaeJepsen 
+no clue found at [11:8]
+no clue found at [11:8]
+no clue found at [11:8]
+no clue found at [11:8]
+cell to attack [11:10] owned by carlyRaeJepsen 
+no clue found at [11:9]
+no clue found at [11:9]
+no clue found at [11:9]
+no clue found at [11:9]
+cell to attack [11:11] owned by carlyRaeJepsen 
+no clue found at [11:10]
+no clue found at [11:10]
+no clue found at [11:10]
+no clue found at [11:10]
+cell to attack [11:12] owned by carlyRaeJepsen 
+no clue found at [11:11]
+board data updated
+no clue found at [11:11]
+no clue found at [11:11]
+no clue found at [11:11]
+cell to attack [11:13] owned by carlyRaeJepsen 
+no clue found at [11:12]
+no clue found at [11:12]
+no clue found at [11:12]
+no clue found at [11:12]
+cell to attack [11:14] owned by carlyRaeJepsen 
+no clue found at [11:13]
+no clue found at [11:13]
+no clue found at [11:13]
+no clue found at [11:13]
+cell to attack [11:15] owned by carlyRaeJepsen 
+no clue found at [11:14]
+no clue found at [11:14]
+no clue found at [11:14]
+no clue found at [11:14]
+cell to attack [11:16] owned by carlyRaeJepsen 
+no clue found at [11:15]
+no clue found at [11:15]
+no clue found at [11:15]
+no clue found at [11:15]
+cell to attack [11:17] owned by carlyRaeJepsen 
+no clue found at [11:16]
+no clue found at [11:16]
+no clue found at [11:16]
+no clue found at [11:16]
+cell to attack [11:18] owned by carlyRaeJepsen 
+no clue found at [11:17]
+no clue found at [11:17]
+no clue found at [11:17]
+no clue found at [11:17]
+cell to attack [11:19] owned by carlyRaeJepsen 
+no clue found at [11:18]
+no clue found at [11:18]
+no clue found at [11:18]
+no clue found at [11:18]
+cell to attack [11:20] owned by carlyRaeJepsen 
+no clue found at [11:19]
+no clue found at [11:19]
+no clue found at [11:19]
+no clue found at [11:19]
+cell to attack [11:21] owned by carlyRaeJepsen 
+no clue found at [11:20]
+no clue found at [11:20]
+no clue found at [11:20]
+no clue found at [11:20]
+cell to attack [11:22] owned by carlyRaeJepsen 
+no clue found at [11:21]
+no clue found at [11:21]
+no clue found at [11:21]
+no clue found at [11:21]
+cell to attack [11:23] owned by carlyRaeJepsen 
+no clue found at [11:22]
+no clue found at [11:22]
+no clue found at [11:22]
+no clue found at [11:22]
+cell to attack [11:24] owned by carlyRaeJepsen 
+no clue found at [11:23]
+no clue found at [11:23]
+no clue found at [11:23]
+no clue found at [11:23]
+cell to attack [12:0] owned by carlyRaeJepsen 
+no clue found at [11:24]
+no clue found at [11:24]
+no clue found at [11:24]
+no clue found at [11:24]
+cell to attack [12:1] owned by carlyRaeJepsen 
+no clue found at [12:0]
+no clue found at [12:0]
+no clue found at [12:0]
+no clue found at [12:0]
+cell to attack [12:2] owned by carlyRaeJepsen 
+no clue found at [12:1]
+no clue found at [12:1]
+no clue found at [12:1]
+no clue found at [12:1]
+cell to attack [12:3] owned by carlyRaeJepsen 
+no clue found at [12:2]
+no clue found at [12:2]
+no clue found at [12:2]
+no clue found at [12:2]
+cell to attack [12:4] owned by carlyRaeJepsen 
+no clue found at [12:3]
+no clue found at [12:3]
+no clue found at [12:3]
+no clue found at [12:3]
+cell to attack [12:5] owned by carlyRaeJepsen 
+no clue found at [12:4]
+no clue found at [12:4]
+no clue found at [12:4]
+no clue found at [12:4]
+cell to attack [12:6] owned by carlyRaeJepsen 
+no clue found at [12:5]
+no clue found at [12:5]
+no clue found at [12:5]
+no clue found at [12:5]
+cell to attack [12:7] owned by carlyRaeJepsen 
+no clue found at [12:6]
+no clue found at [12:6]
+no clue found at [12:6]
+no clue found at [12:6]
+cell to attack [12:8] owned by carlyRaeJepsen 
+no clue found at [12:7]
+no clue found at [12:7]
+no clue found at [12:7]
+no clue found at [12:7]
+cell to attack [12:9] owned by carlyRaeJepsen 
+no clue found at [12:8]
+no clue found at [12:8]
+no clue found at [12:8]
+no clue found at [12:8]
+cell to attack [12:10] owned by carlyRaeJepsen 
+no clue found at [12:9]
+no clue found at [12:9]
+no clue found at [12:9]
+no clue found at [12:9]
+cell to attack [12:11] owned by carlyRaeJepsen 
+no clue found at [12:10]
+no clue found at [12:10]
+no clue found at [12:10]
+no clue found at [12:10]
+cell to attack [12:12] owned by carlyRaeJepsen 
+no clue found at [12:11]
+no clue found at [12:11]
+no clue found at [12:11]
+no clue found at [12:11]
+cell to attack [12:13] owned by carlyRaeJepsen 
+no clue found at [12:12]
+no clue found at [12:12]
+no clue found at [12:12]
+no clue found at [12:12]
+cell to attack [12:14] owned by carlyRaeJepsen 
+no clue found at [12:13]
+no clue found at [12:13]
+no clue found at [12:13]
+no clue found at [12:13]
+cell to attack [12:15] owned by carlyRaeJepsen 
+no clue found at [12:14]
+no clue found at [12:14]
+no clue found at [12:14]
+no clue found at [12:14]
+cell to attack [12:16] owned by carlyRaeJepsen 
+no clue found at [12:15]
+no clue found at [12:15]
+no clue found at [12:15]
+no clue found at [12:15]
+cell to attack [12:17] owned by carlyRaeJepsen 
+no clue found at [12:16]
+no clue found at [12:16]
+no clue found at [12:16]
+no clue found at [12:16]
+cell to attack [12:18] owned by carlyRaeJepsen 
+no clue found at [12:17]
+no clue found at [12:17]
+no clue found at [12:17]
+no clue found at [12:17]
+cell to attack [12:19] owned by carlyRaeJepsen 
+no clue found at [12:18]
+no clue found at [12:18]
+no clue found at [12:18]
+no clue found at [12:18]
+cell to attack [12:20] owned by carlyRaeJepsen 
+no clue found at [12:19]
+no clue found at [12:19]
+no clue found at [12:19]
+no clue found at [12:19]
+cell to attack [12:21] owned by carlyRaeJepsen 
+no clue found at [12:20]
+no clue found at [12:20]
+no clue found at [12:20]
+no clue found at [12:20]
+cell to attack [12:22] owned by carlyRaeJepsen 
+no clue found at [12:21]
+no clue found at [12:21]
+no clue found at [12:21]
+no clue found at [12:21]
+cell to attack [12:23] owned by carlyRaeJepsen 
+no clue found at [12:22]
+board data updated
+no clue found at [12:22]
+no clue found at [12:22]
+no clue found at [12:22]
+cell to attack [12:24] owned by carlyRaeJepsen 
+no clue found at [12:23]
+no clue found at [12:23]
+no clue found at [12:23]
+no clue found at [12:23]
+cell to attack [13:0] owned by carlyRaeJepsen 
+no clue found at [12:24]
+no clue found at [12:24]
+no clue found at [12:24]
+no clue found at [12:24]
+cell to attack [13:1] owned by carlyRaeJepsen 
+no clue found at [13:0]
+no clue found at [13:0]
+no clue found at [13:0]
+no clue found at [13:0]
+cell to attack [13:2] owned by carlyRaeJepsen 
+no clue found at [13:1]
+no clue found at [13:1]
+no clue found at [13:1]
+no clue found at [13:1]
+cell to attack [13:3] owned by carlyRaeJepsen 
+no clue found at [13:2]
+no clue found at [13:2]
+no clue found at [13:2]
+no clue found at [13:2]
+cell to attack [13:4] owned by carlyRaeJepsen 
+no clue found at [13:3]
+no clue found at [13:3]
+no clue found at [13:3]
+no clue found at [13:3]
+cell to attack [13:5] owned by carlyRaeJepsen 
+no clue found at [13:4]
+no clue found at [13:4]
+no clue found at [13:4]
+no clue found at [13:4]
+cell to attack [13:6] owned by carlyRaeJepsen 
+no clue found at [13:5]
+no clue found at [13:5]
+no clue found at [13:5]
+no clue found at [13:5]
+cell to attack [13:7] owned by carlyRaeJepsen 
+no clue found at [13:6]
+no clue found at [13:6]
+no clue found at [13:6]
+no clue found at [13:6]
+cell to attack [13:8] owned by carlyRaeJepsen 
+no clue found at [13:7]
+no clue found at [13:7]
+no clue found at [13:7]
+no clue found at [13:7]
+cell to attack [13:9] owned by carlyRaeJepsen 
+no clue found at [13:8]
+no clue found at [13:8]
+no clue found at [13:8]
+no clue found at [13:8]
+cell to attack [13:10] owned by carlyRaeJepsen 
+no clue found at [13:9]
+no clue found at [13:9]
+no clue found at [13:9]
+no clue found at [13:9]
+cell to attack [13:11] owned by carlyRaeJepsen 
+no clue found at [13:10]
+no clue found at [13:10]
+no clue found at [13:10]
+no clue found at [13:10]
+cell to attack [13:12] owned by carlyRaeJepsen 
+no clue found at [13:11]
+no clue found at [13:11]
+no clue found at [13:11]
+no clue found at [13:11]
+cell to attack [13:13] owned by carlyRaeJepsen 
+no clue found at [13:12]
+no clue found at [13:12]
+no clue found at [13:12]
+no clue found at [13:12]
+cell to attack [13:14] owned by carlyRaeJepsen 
+no clue found at [13:13]
+no clue found at [13:13]
+no clue found at [13:13]
+no clue found at [13:13]
+cell to attack [13:15] owned by carlyRaeJepsen 
+no clue found at [13:14]
+no clue found at [13:14]
+no clue found at [13:14]
+no clue found at [13:14]
+cell to attack [13:16] owned by carlyRaeJepsen 
+no clue found at [13:15]
+no clue found at [13:15]
+no clue found at [13:15]
+no clue found at [13:15]
+cell to attack [13:17] owned by carlyRaeJepsen 
+no clue found at [13:16]
+no clue found at [13:16]
+no clue found at [13:16]
+no clue found at [13:16]
+cell to attack [13:18] owned by carlyRaeJepsen 
+no clue found at [13:17]
+no clue found at [13:17]
+no clue found at [13:17]
+no clue found at [13:17]
+cell to attack [13:19] owned by carlyRaeJepsen 
+no clue found at [13:18]
+no clue found at [13:18]
+no clue found at [13:18]
+no clue found at [13:18]
+cell to attack [13:20] owned by carlyRaeJepsen 
+no clue found at [13:19]
+no clue found at [13:19]
+no clue found at [13:19]
+no clue found at [13:19]
+cell to attack [13:21] owned by carlyRaeJepsen 
+no clue found at [13:20]
+no clue found at [13:20]
+no clue found at [13:20]
+no clue found at [13:20]
+cell to attack [13:22] owned by carlyRaeJepsen 
+no clue found at [13:21]
+no clue found at [13:21]
+no clue found at [13:21]
+no clue found at [13:21]
+cell to attack [13:23] owned by carlyRaeJepsen 
+no clue found at [13:22]
+no clue found at [13:22]
+no clue found at [13:22]
+no clue found at [13:22]
+cell to attack [13:24] owned by carlyRaeJepsen 
+no clue found at [13:23]
+no clue found at [13:23]
+no clue found at [13:23]
+no clue found at [13:23]
+cell to attack [14:0] owned by carlyRaeJepsen 
+no clue found at [13:24]
+no clue found at [13:24]
+no clue found at [13:24]
+no clue found at [13:24]
+cell to attack [14:1] owned by carlyRaeJepsen 
+no clue found at [14:0]
+no clue found at [14:0]
+no clue found at [14:0]
+no clue found at [14:0]
+cell to attack [14:2] owned by carlyRaeJepsen 
+no clue found at [14:1]
+no clue found at [14:1]
+no clue found at [14:1]
+no clue found at [14:1]
+cell to attack [14:3] owned by carlyRaeJepsen 
+no clue found at [14:2]
+no clue found at [14:2]
+no clue found at [14:2]
+no clue found at [14:2]
+cell to attack [14:4] owned by carlyRaeJepsen 
+no clue found at [14:3]
+no clue found at [14:3]
+no clue found at [14:3]
+no clue found at [14:3]
+cell to attack [14:5] owned by carlyRaeJepsen 
+no clue found at [14:4]
+no clue found at [14:4]
+no clue found at [14:4]
+no clue found at [14:4]
+cell to attack [14:6] owned by carlyRaeJepsen 
+no clue found at [14:5]
+no clue found at [14:5]
+no clue found at [14:5]
+no clue found at [14:5]
+cell to attack [14:7] owned by carlyRaeJepsen 
+no clue found at [14:6]
+no clue found at [14:6]
+no clue found at [14:6]
+no clue found at [14:6]
+cell to attack [14:8] owned by carlyRaeJepsen 
+no clue found at [14:7]
+no clue found at [14:7]
+no clue found at [14:7]
+no clue found at [14:7]
+cell to attack [14:9] owned by carlyRaeJepsen 
+no clue found at [14:8]
+no clue found at [14:8]
+board data updated
+no clue found at [14:8]
+no clue found at [14:8]
+cell to attack [14:10] owned by carlyRaeJepsen 
+no clue found at [14:9]
+no clue found at [14:9]
+no clue found at [14:9]
+no clue found at [14:9]
+cell to attack [14:11] owned by carlyRaeJepsen 
+no clue found at [14:10]
+no clue found at [14:10]
+no clue found at [14:10]
+no clue found at [14:10]
+cell to attack [14:12] owned by carlyRaeJepsen 
+no clue found at [14:11]
+no clue found at [14:11]
+no clue found at [14:11]
+no clue found at [14:11]
+cell to attack [14:13] owned by carlyRaeJepsen 
+no clue found at [14:12]
+no clue found at [14:12]
+no clue found at [14:12]
+no clue found at [14:12]
+cell to attack [14:14] owned by carlyRaeJepsen 
+no clue found at [14:13]
+no clue found at [14:13]
+no clue found at [14:13]
+no clue found at [14:13]
+cell to attack [14:15] owned by carlyRaeJepsen 
+no clue found at [14:14]
+no clue found at [14:14]
+no clue found at [14:14]
+no clue found at [14:14]
+cell to attack [14:16] owned by carlyRaeJepsen 
+no clue found at [14:15]
+no clue found at [14:15]
+no clue found at [14:15]
+no clue found at [14:15]
+cell to attack [14:17] owned by carlyRaeJepsen 
+no clue found at [14:16]
+no clue found at [14:16]
+no clue found at [14:16]
+no clue found at [14:16]
+cell to attack [14:18] owned by carlyRaeJepsen 
+no clue found at [14:17]
+no clue found at [14:17]
+no clue found at [14:17]
+no clue found at [14:17]
+cell to attack [14:19] owned by carlyRaeJepsen 
+no clue found at [14:18]
+no clue found at [14:18]
+no clue found at [14:18]
+no clue found at [14:18]
+cell to attack [14:20] owned by carlyRaeJepsen 
+no clue found at [14:19]
+no clue found at [14:19]
+no clue found at [14:19]
+no clue found at [14:19]
+cell to attack [14:21] owned by carlyRaeJepsen 
+no clue found at [14:20]
+no clue found at [14:20]
+no clue found at [14:20]
+no clue found at [14:20]
+cell to attack [14:22] owned by carlyRaeJepsen 
+no clue found at [14:21]
+no clue found at [14:21]
+no clue found at [14:21]
+no clue found at [14:21]
+cell to attack [14:23] owned by carlyRaeJepsen 
+no clue found at [14:22]
+no clue found at [14:22]
+no clue found at [14:22]
+no clue found at [14:22]
+cell to attack [14:24] owned by carlyRaeJepsen 
+no clue found at [14:23]
+no clue found at [14:23]
+no clue found at [14:23]
+no clue found at [14:23]
+cell to attack [15:0] owned by carlyRaeJepsen 
+no clue found at [14:24]
+no clue found at [14:24]
+no clue found at [14:24]
+no clue found at [14:24]
+cell to attack [15:1] owned by carlyRaeJepsen 
+no clue found at [15:0]
+no clue found at [15:0]
+no clue found at [15:0]
+no clue found at [15:0]
+cell to attack [15:2] owned by carlyRaeJepsen 
+no clue found at [15:1]
+no clue found at [15:1]
+no clue found at [15:1]
+no clue found at [15:1]
+cell to attack [15:3] owned by carlyRaeJepsen 
+no clue found at [15:2]
+no clue found at [15:2]
+no clue found at [15:2]
+no clue found at [15:2]
+cell to attack [15:4] owned by carlyRaeJepsen 
+no clue found at [15:3]
+no clue found at [15:3]
+no clue found at [15:3]
+no clue found at [15:3]
+cell to attack [15:5] owned by carlyRaeJepsen 
+no clue found at [15:4]
+no clue found at [15:4]
+no clue found at [15:4]
+no clue found at [15:4]
+cell to attack [15:6] owned by carlyRaeJepsen 
+clue found at [15:5] : It was not done with Revolver
+actual clue at [15:5] : Revolver
+cannot solve clue yet; there are 11 remaining clues
+clue found at [15:5] : It was not done with Revolver
+actual clue at [15:5] : Revolver
+cannot solve clue yet; there are 11 remaining clues
+clue found at [15:5] : It was not done with Revolver
+actual clue at [15:5] : Revolver
+cannot solve clue yet; there are 11 remaining clues
+clue found at [15:5] : It was not done with Revolver
+actual clue at [15:5] : Revolver
+cannot solve clue yet; there are 11 remaining clues
+cell to attack [15:7] owned by carlyRaeJepsen 
+no clue found at [15:6]
+no clue found at [15:6]
+no clue found at [15:6]
+no clue found at [15:6]
+cell to attack [15:8] owned by carlyRaeJepsen 
+no clue found at [15:7]
+no clue found at [15:7]
+no clue found at [15:7]
+no clue found at [15:7]
+cell to attack [15:9] owned by carlyRaeJepsen 
+no clue found at [15:8]
+no clue found at [15:8]
+no clue found at [15:8]
+no clue found at [15:8]
+cell to attack [15:10] owned by carlyRaeJepsen 
+no clue found at [15:9]
+no clue found at [15:9]
+no clue found at [15:9]
+no clue found at [15:9]
+cell to attack [15:11] owned by carlyRaeJepsen 
+no clue found at [15:10]
+no clue found at [15:10]
+no clue found at [15:10]
+no clue found at [15:10]
+cell to attack [15:12] owned by carlyRaeJepsen 
+no clue found at [15:11]
+no clue found at [15:11]
+no clue found at [15:11]
+no clue found at [15:11]
+cell to attack [15:13] owned by carlyRaeJepsen 
+no clue found at [15:12]
+no clue found at [15:12]
+no clue found at [15:12]
+no clue found at [15:12]
+cell to attack [15:14] owned by carlyRaeJepsen 
+no clue found at [15:13]
+no clue found at [15:13]
+no clue found at [15:13]
+no clue found at [15:13]
+cell to attack [15:15] owned by carlyRaeJepsen 
+no clue found at [15:14]
+no clue found at [15:14]
+no clue found at [15:14]
+no clue found at [15:14]
+cell to attack [15:16] owned by carlyRaeJepsen 
+no clue found at [15:15]
+no clue found at [15:15]
+no clue found at [15:15]
+no clue found at [15:15]
+cell to attack [15:17] owned by carlyRaeJepsen 
+no clue found at [15:16]
+no clue found at [15:16]
+no clue found at [15:16]
+no clue found at [15:16]
+cell to attack [15:18] owned by carlyRaeJepsen 
+no clue found at [15:17]
+no clue found at [15:17]
+no clue found at [15:17]
+no clue found at [15:17]
+cell to attack [15:19] owned by carlyRaeJepsen 
+no clue found at [15:18]
+no clue found at [15:18]
+no clue found at [15:18]
+no clue found at [15:18]
+cell to attack [15:20] owned by carlyRaeJepsen 
+no clue found at [15:19]
+no clue found at [15:19]
+no clue found at [15:19]
+no clue found at [15:19]
+cell to attack [15:21] owned by carlyRaeJepsen 
+no clue found at [15:20]
+no clue found at [15:20]
+no clue found at [15:20]
+no clue found at [15:20]
+cell to attack [15:22] owned by carlyRaeJepsen 
+no clue found at [15:21]
+board data updated
+no clue found at [15:21]
+no clue found at [15:21]
+no clue found at [15:21]
+cell to attack [15:23] owned by carlyRaeJepsen 
+no clue found at [15:22]
+no clue found at [15:22]
+no clue found at [15:22]
+no clue found at [15:22]
+cell to attack [15:24] owned by carlyRaeJepsen 
+no clue found at [15:23]
+no clue found at [15:23]
+no clue found at [15:23]
+no clue found at [15:23]
+cell to attack [16:0] owned by carlyRaeJepsen 
+no clue found at [15:24]
+no clue found at [15:24]
+no clue found at [15:24]
+no clue found at [15:24]
+cell to attack [16:1] owned by carlyRaeJepsen 
+clue found at [16:0] : It was not done by ProfessorPlum
+actual clue at [16:0] : ProfessorPlum
+cannot solve clue yet; there are 10 remaining clues
+clue found at [16:0] : It was not done by ProfessorPlum
+actual clue at [16:0] : ProfessorPlum
+cannot solve clue yet; there are 10 remaining clues
+clue found at [16:0] : It was not done by ProfessorPlum
+actual clue at [16:0] : ProfessorPlum
+cannot solve clue yet; there are 10 remaining clues
+clue found at [16:0] : It was not done by ProfessorPlum
+actual clue at [16:0] : ProfessorPlum
+cannot solve clue yet; there are 10 remaining clues
+cell to attack [16:2] owned by carlyRaeJepsen 
+no clue found at [16:1]
+no clue found at [16:1]
+no clue found at [16:1]
+no clue found at [16:1]
+cell to attack [16:3] owned by carlyRaeJepsen 
+no clue found at [16:2]
+no clue found at [16:2]
+no clue found at [16:2]
+no clue found at [16:2]
+cell to attack [16:4] owned by carlyRaeJepsen 
+clue found at [16:3] : It was not done in the Ballroom
+actual clue at [16:3] : Ballroom
+cannot solve clue yet; there are 9 remaining clues
+clue found at [16:3] : It was not done in the Ballroom
+actual clue at [16:3] : Ballroom
+cannot solve clue yet; there are 9 remaining clues
+clue found at [16:3] : It was not done in the Ballroom
+actual clue at [16:3] : Ballroom
+cannot solve clue yet; there are 9 remaining clues
+clue found at [16:3] : It was not done in the Ballroom
+actual clue at [16:3] : Ballroom
+cannot solve clue yet; there are 9 remaining clues
+cell to attack [16:5] owned by carlyRaeJepsen 
+no clue found at [16:4]
+no clue found at [16:4]
+no clue found at [16:4]
+no clue found at [16:4]
+cell to attack [16:6] owned by carlyRaeJepsen 
+no clue found at [16:5]
+no clue found at [16:5]
+no clue found at [16:5]
+no clue found at [16:5]
+cell to attack [16:7] owned by carlyRaeJepsen 
+no clue found at [16:6]
+no clue found at [16:6]
+no clue found at [16:6]
+no clue found at [16:6]
+cell to attack [16:8] owned by carlyRaeJepsen 
+no clue found at [16:7]
+no clue found at [16:7]
+no clue found at [16:7]
+no clue found at [16:7]
+cell to attack [16:9] owned by carlyRaeJepsen 
+no clue found at [16:8]
+no clue found at [16:8]
+no clue found at [16:8]
+no clue found at [16:8]
+cell to attack [16:10] owned by carlyRaeJepsen 
+no clue found at [16:9]
+no clue found at [16:9]
+no clue found at [16:9]
+no clue found at [16:9]
+cell to attack [16:11] owned by carlyRaeJepsen 
+no clue found at [16:10]
+no clue found at [16:10]
+no clue found at [16:10]
+no clue found at [16:10]
+cell to attack [16:12] owned by carlyRaeJepsen 
+no clue found at [16:11]
+no clue found at [16:11]
+no clue found at [16:11]
+no clue found at [16:11]
+cell to attack [16:13] owned by carlyRaeJepsen 
+no clue found at [16:12]
+no clue found at [16:12]
+no clue found at [16:12]
+no clue found at [16:12]
+cell to attack [16:14] owned by carlyRaeJepsen 
+no clue found at [16:13]
+no clue found at [16:13]
+no clue found at [16:13]
+no clue found at [16:13]
+cell to attack [16:15] owned by carlyRaeJepsen 
+no clue found at [16:14]
+no clue found at [16:14]
+no clue found at [16:14]
+no clue found at [16:14]
+cell to attack [16:16] owned by carlyRaeJepsen 
+no clue found at [16:15]
+no clue found at [16:15]
+no clue found at [16:15]
+no clue found at [16:15]
+cell to attack [16:17] owned by carlyRaeJepsen 
+no clue found at [16:16]
+no clue found at [16:16]
+no clue found at [16:16]
+no clue found at [16:16]
+cell to attack [16:18] owned by carlyRaeJepsen 
+no clue found at [16:17]
+no clue found at [16:17]
+no clue found at [16:17]
+no clue found at [16:17]
+cell to attack [16:19] owned by carlyRaeJepsen 
+no clue found at [16:18]
+no clue found at [16:18]
+no clue found at [16:18]
+no clue found at [16:18]
+cell to attack [16:20] owned by carlyRaeJepsen 
+no clue found at [16:19]
+no clue found at [16:19]
+no clue found at [16:19]
+no clue found at [16:19]
+cell to attack [16:21] owned by carlyRaeJepsen 
+no clue found at [16:20]
+no clue found at [16:20]
+no clue found at [16:20]
+no clue found at [16:20]
+cell to attack [16:22] owned by carlyRaeJepsen 
+no clue found at [16:21]
+no clue found at [16:21]
+no clue found at [16:21]
+no clue found at [16:21]
+cell to attack [16:23] owned by carlyRaeJepsen 
+no clue found at [16:22]
+no clue found at [16:22]
+no clue found at [16:22]
+no clue found at [16:22]
+cell to attack [16:24] owned by carlyRaeJepsen 
+no clue found at [16:23]
+no clue found at [16:23]
+no clue found at [16:23]
+no clue found at [16:23]
+cell to attack [17:0] owned by carlyRaeJepsen 
+no clue found at [16:24]
+no clue found at [16:24]
+no clue found at [16:24]
+no clue found at [16:24]
+cell to attack [17:1] owned by carlyRaeJepsen 
+no clue found at [17:0]
+no clue found at [17:0]
+no clue found at [17:0]
+no clue found at [17:0]
+cell to attack [17:2] owned by carlyRaeJepsen 
+no clue found at [17:1]
+no clue found at [17:1]
+no clue found at [17:1]
+no clue found at [17:1]
+cell to attack [17:3] owned by carlyRaeJepsen 
+no clue found at [17:2]
+no clue found at [17:2]
+no clue found at [17:2]
+no clue found at [17:2]
+cell to attack [17:4] owned by carlyRaeJepsen 
+no clue found at [17:3]
+no clue found at [17:3]
+no clue found at [17:3]
+no clue found at [17:3]
+cell to attack [17:5] owned by carlyRaeJepsen 
+no clue found at [17:4]
+no clue found at [17:4]
+no clue found at [17:4]
+no clue found at [17:4]
+cell to attack [17:6] owned by carlyRaeJepsen 
+no clue found at [17:5]
+no clue found at [17:5]
+no clue found at [17:5]
+no clue found at [17:5]
+cell to attack [17:7] owned by carlyRaeJepsen 
+no clue found at [17:6]
+no clue found at [17:6]
+board data updated
+no clue found at [17:6]
+no clue found at [17:6]
+cell to attack [17:8] owned by carlyRaeJepsen 
+no clue found at [17:7]
+no clue found at [17:7]
+no clue found at [17:7]
+no clue found at [17:7]
+cell to attack [17:9] owned by carlyRaeJepsen 
+no clue found at [17:8]
+no clue found at [17:8]
+no clue found at [17:8]
+no clue found at [17:8]
+cell to attack [17:10] owned by carlyRaeJepsen 
+no clue found at [17:9]
+no clue found at [17:9]
+no clue found at [17:9]
+no clue found at [17:9]
+cell to attack [17:11] owned by carlyRaeJepsen 
+no clue found at [17:10]
+no clue found at [17:10]
+no clue found at [17:10]
+no clue found at [17:10]
+cell to attack [17:12] owned by carlyRaeJepsen 
+no clue found at [17:11]
+no clue found at [17:11]
+no clue found at [17:11]
+no clue found at [17:11]
+cell to attack [17:13] owned by carlyRaeJepsen 
+no clue found at [17:12]
+no clue found at [17:12]
+no clue found at [17:12]
+no clue found at [17:12]
+cell to attack [17:14] owned by carlyRaeJepsen 
+no clue found at [17:13]
+no clue found at [17:13]
+no clue found at [17:13]
+no clue found at [17:13]
+cell to attack [17:15] owned by carlyRaeJepsen 
+no clue found at [17:14]
+no clue found at [17:14]
+no clue found at [17:14]
+no clue found at [17:14]
+cell to attack [17:16] owned by carlyRaeJepsen 
+no clue found at [17:15]
+no clue found at [17:15]
+no clue found at [17:15]
+no clue found at [17:15]
+cell to attack [17:17] owned by carlyRaeJepsen 
+no clue found at [17:16]
+no clue found at [17:16]
+no clue found at [17:16]
+no clue found at [17:16]
+cell to attack [17:18] owned by carlyRaeJepsen 
+no clue found at [17:17]
+no clue found at [17:17]
+no clue found at [17:17]
+no clue found at [17:17]
+cell to attack [17:19] owned by carlyRaeJepsen 
+clue found at [17:18] : It was not done by ColonelMustard
+actual clue at [17:18] : ColonelMustard
+cannot solve clue yet; there are 8 remaining clues
+clue found at [17:18] : It was not done by ColonelMustard
+actual clue at [17:18] : ColonelMustard
+cannot solve clue yet; there are 8 remaining clues
+clue found at [17:18] : It was not done by ColonelMustard
+actual clue at [17:18] : ColonelMustard
+cannot solve clue yet; there are 8 remaining clues
+clue found at [17:18] : It was not done by ColonelMustard
+actual clue at [17:18] : ColonelMustard
+cannot solve clue yet; there are 8 remaining clues
+cell to attack [17:20] owned by carlyRaeJepsen 
+no clue found at [17:19]
+no clue found at [17:19]
+no clue found at [17:19]
+no clue found at [17:19]
+cell to attack [17:21] owned by carlyRaeJepsen 
+no clue found at [17:20]
+no clue found at [17:20]
+no clue found at [17:20]
+no clue found at [17:20]
+cell to attack [17:22] owned by carlyRaeJepsen 
+no clue found at [17:21]
+no clue found at [17:21]
+no clue found at [17:21]
+no clue found at [17:21]
+cell to attack [17:23] owned by carlyRaeJepsen 
+no clue found at [17:22]
+no clue found at [17:22]
+no clue found at [17:22]
+no clue found at [17:22]
+cell to attack [17:24] owned by carlyRaeJepsen 
+no clue found at [17:23]
+no clue found at [17:23]
+no clue found at [17:23]
+no clue found at [17:23]
+cell to attack [18:0] owned by carlyRaeJepsen 
+no clue found at [17:24]
+no clue found at [17:24]
+no clue found at [17:24]
+no clue found at [17:24]
+cell to attack [18:1] owned by carlyRaeJepsen 
+no clue found at [18:0]
+no clue found at [18:0]
+no clue found at [18:0]
+no clue found at [18:0]
+cell to attack [18:2] owned by carlyRaeJepsen 
+no clue found at [18:1]
+no clue found at [18:1]
+no clue found at [18:1]
+no clue found at [18:1]
+cell to attack [18:3] owned by carlyRaeJepsen 
+no clue found at [18:2]
+no clue found at [18:2]
+no clue found at [18:2]
+no clue found at [18:2]
+cell to attack [18:4] owned by carlyRaeJepsen 
+no clue found at [18:3]
+no clue found at [18:3]
+no clue found at [18:3]
+no clue found at [18:3]
+cell to attack [18:5] owned by carlyRaeJepsen 
+clue found at [18:4] : It was not done in the Library
+actual clue at [18:4] : Library
+cannot solve clue yet; there are 7 remaining clues
+clue found at [18:4] : It was not done in the Library
+actual clue at [18:4] : Library
+cannot solve clue yet; there are 7 remaining clues
+clue found at [18:4] : It was not done in the Library
+actual clue at [18:4] : Library
+cannot solve clue yet; there are 7 remaining clues
+clue found at [18:4] : It was not done in the Library
+actual clue at [18:4] : Library
+cannot solve clue yet; there are 7 remaining clues
+cell to attack [18:6] owned by carlyRaeJepsen 
+no clue found at [18:5]
+no clue found at [18:5]
+no clue found at [18:5]
+no clue found at [18:5]
+cell to attack [18:7] owned by carlyRaeJepsen 
+no clue found at [18:6]
+no clue found at [18:6]
+no clue found at [18:6]
+no clue found at [18:6]
+cell to attack [18:8] owned by carlyRaeJepsen 
+no clue found at [18:7]
+no clue found at [18:7]
+no clue found at [18:7]
+no clue found at [18:7]
+cell to attack [18:9] owned by carlyRaeJepsen 
+no clue found at [18:8]
+no clue found at [18:8]
+no clue found at [18:8]
+no clue found at [18:8]
+cell to attack [18:10] owned by carlyRaeJepsen 
+no clue found at [18:9]
+no clue found at [18:9]
+no clue found at [18:9]
+no clue found at [18:9]
+cell to attack [18:11] owned by carlyRaeJepsen 
+no clue found at [18:10]
+no clue found at [18:10]
+no clue found at [18:10]
+no clue found at [18:10]
+cell to attack [18:12] owned by carlyRaeJepsen 
+no clue found at [18:11]
+no clue found at [18:11]
+no clue found at [18:11]
+no clue found at [18:11]
+cell to attack [18:13] owned by carlyRaeJepsen 
+no clue found at [18:12]
+no clue found at [18:12]
+no clue found at [18:12]
+no clue found at [18:12]
+cell to attack [18:14] owned by carlyRaeJepsen 
+no clue found at [18:13]
+no clue found at [18:13]
+no clue found at [18:13]
+no clue found at [18:13]
+cell to attack [18:15] owned by carlyRaeJepsen 
+no clue found at [18:14]
+no clue found at [18:14]
+no clue found at [18:14]
+no clue found at [18:14]
+cell to attack [18:16] owned by carlyRaeJepsen 
+no clue found at [18:15]
+no clue found at [18:15]
+no clue found at [18:15]
+no clue found at [18:15]
+cell to attack [18:17] owned by carlyRaeJepsen 
+no clue found at [18:16]
+no clue found at [18:16]
+no clue found at [18:16]
+no clue found at [18:16]
+cell to attack [18:18] owned by carlyRaeJepsen 
+no clue found at [18:17]
+no clue found at [18:17]
+no clue found at [18:17]
+no clue found at [18:17]
+cell to attack [18:19] owned by carlyRaeJepsen 
+no clue found at [18:18]
+no clue found at [18:18]
+no clue found at [18:18]
+no clue found at [18:18]
+cell to attack [18:20] owned by carlyRaeJepsen 
+no clue found at [18:19]
+board data updated
+no clue found at [18:19]
+no clue found at [18:19]
+no clue found at [18:19]
+cell to attack [18:21] owned by carlyRaeJepsen 
+no clue found at [18:20]
+no clue found at [18:20]
+no clue found at [18:20]
+no clue found at [18:20]
+cell to attack [18:22] owned by carlyRaeJepsen 
+no clue found at [18:21]
+no clue found at [18:21]
+no clue found at [18:21]
+no clue found at [18:21]
+cell to attack [18:23] owned by carlyRaeJepsen 
+no clue found at [18:22]
+no clue found at [18:22]
+no clue found at [18:22]
+no clue found at [18:22]
+cell to attack [18:24] owned by carlyRaeJepsen 
+no clue found at [18:23]
+no clue found at [18:23]
+no clue found at [18:23]
+no clue found at [18:23]
+cell to attack [19:0] owned by carlyRaeJepsen 
+no clue found at [18:24]
+no clue found at [18:24]
+no clue found at [18:24]
+no clue found at [18:24]
+cell to attack [19:1] owned by carlyRaeJepsen 
+no clue found at [19:0]
+no clue found at [19:0]
+no clue found at [19:0]
+no clue found at [19:0]
+cell to attack [19:2] owned by carlyRaeJepsen 
+no clue found at [19:1]
+no clue found at [19:1]
+no clue found at [19:1]
+no clue found at [19:1]
+cell to attack [19:3] owned by carlyRaeJepsen 
+no clue found at [19:2]
+no clue found at [19:2]
+no clue found at [19:2]
+no clue found at [19:2]
+cell to attack [19:4] owned by carlyRaeJepsen 
+no clue found at [19:3]
+no clue found at [19:3]
+no clue found at [19:3]
+no clue found at [19:3]
+cell to attack [19:5] owned by carlyRaeJepsen 
+no clue found at [19:4]
+no clue found at [19:4]
+no clue found at [19:4]
+no clue found at [19:4]
+cell to attack [19:6] owned by carlyRaeJepsen 
+no clue found at [19:5]
+no clue found at [19:5]
+no clue found at [19:5]
+no clue found at [19:5]
+cell to attack [19:7] owned by carlyRaeJepsen 
+no clue found at [19:6]
+no clue found at [19:6]
+no clue found at [19:6]
+no clue found at [19:6]
+cell to attack [19:8] owned by carlyRaeJepsen 
+no clue found at [19:7]
+no clue found at [19:7]
+no clue found at [19:7]
+no clue found at [19:7]
+cell to attack [19:9] owned by carlyRaeJepsen 
+no clue found at [19:8]
+no clue found at [19:8]
+no clue found at [19:8]
+no clue found at [19:8]
+cell to attack [19:10] owned by carlyRaeJepsen 
+no clue found at [19:9]
+no clue found at [19:9]
+no clue found at [19:9]
+no clue found at [19:9]
+cell to attack [19:11] owned by carlyRaeJepsen 
+no clue found at [19:10]
+no clue found at [19:10]
+no clue found at [19:10]
+no clue found at [19:10]
+cell to attack [19:12] owned by carlyRaeJepsen 
+no clue found at [19:11]
+no clue found at [19:11]
+no clue found at [19:11]
+no clue found at [19:11]
+cell to attack [19:13] owned by carlyRaeJepsen 
+no clue found at [19:12]
+no clue found at [19:12]
+no clue found at [19:12]
+no clue found at [19:12]
+cell to attack [19:14] owned by carlyRaeJepsen 
+no clue found at [19:13]
+no clue found at [19:13]
+no clue found at [19:13]
+no clue found at [19:13]
+cell to attack [19:15] owned by carlyRaeJepsen 
+no clue found at [19:14]
+no clue found at [19:14]
+no clue found at [19:14]
+no clue found at [19:14]
+cell to attack [19:16] owned by carlyRaeJepsen 
+no clue found at [19:15]
+no clue found at [19:15]
+no clue found at [19:15]
+no clue found at [19:15]
+cell to attack [19:17] owned by carlyRaeJepsen 
+no clue found at [19:16]
+no clue found at [19:16]
+no clue found at [19:16]
+no clue found at [19:16]
+cell to attack [19:18] owned by carlyRaeJepsen 
+no clue found at [19:17]
+no clue found at [19:17]
+no clue found at [19:17]
+no clue found at [19:17]
+cell to attack [19:19] owned by carlyRaeJepsen 
+no clue found at [19:18]
+no clue found at [19:18]
+no clue found at [19:18]
+no clue found at [19:18]
+cell to attack [19:20] owned by carlyRaeJepsen 
+no clue found at [19:19]
+no clue found at [19:19]
+no clue found at [19:19]
+no clue found at [19:19]
+cell to attack [19:21] owned by carlyRaeJepsen 
+no clue found at [19:20]
+no clue found at [19:20]
+no clue found at [19:20]
+no clue found at [19:20]
+cell to attack [19:22] owned by carlyRaeJepsen 
+no clue found at [19:21]
+no clue found at [19:21]
+no clue found at [19:21]
+no clue found at [19:21]
+cell to attack [19:23] owned by carlyRaeJepsen 
+no clue found at [19:22]
+no clue found at [19:22]
+no clue found at [19:22]
+no clue found at [19:22]
+cell to attack [19:24] owned by carlyRaeJepsen 
+no clue found at [19:23]
+no clue found at [19:23]
+no clue found at [19:23]
+no clue found at [19:23]
+cell to attack [20:0] owned by carlyRaeJepsen 
+no clue found at [19:24]
+no clue found at [19:24]
+no clue found at [19:24]
+no clue found at [19:24]
+cell to attack [20:1] owned by carlyRaeJepsen 
+no clue found at [20:0]
+no clue found at [20:0]
+no clue found at [20:0]
+no clue found at [20:0]
+cell to attack [20:2] owned by carlyRaeJepsen 
+no clue found at [20:1]
+no clue found at [20:1]
+no clue found at [20:1]
+no clue found at [20:1]
+cell to attack [20:3] owned by carlyRaeJepsen 
+no clue found at [20:2]
+no clue found at [20:2]
+no clue found at [20:2]
+no clue found at [20:2]
+cell to attack [20:4] owned by carlyRaeJepsen 
+no clue found at [20:3]
+no clue found at [20:3]
+no clue found at [20:3]
+no clue found at [20:3]
+cell to attack [20:5] owned by carlyRaeJepsen 
+no clue found at [20:4]
+no clue found at [20:4]
+no clue found at [20:4]
+no clue found at [20:4]
+cell to attack [20:6] owned by carlyRaeJepsen 
+no clue found at [20:5]
+no clue found at [20:5]
+no clue found at [20:5]
+no clue found at [20:5]
+cell to attack [20:7] owned by carlyRaeJepsen 
+no clue found at [20:6]
+no clue found at [20:6]
+no clue found at [20:6]
+board data updated
+no clue found at [20:6]
+cell to attack [20:8] owned by carlyRaeJepsen 
+clue found at [20:7] : It was not done in the BilliardRoom
+actual clue at [20:7] : BilliardRoom
+cannot solve clue yet; there are 6 remaining clues
+clue found at [20:7] : It was not done in the BilliardRoom
+actual clue at [20:7] : BilliardRoom
+cannot solve clue yet; there are 6 remaining clues
+clue found at [20:7] : It was not done in the BilliardRoom
+actual clue at [20:7] : BilliardRoom
+cannot solve clue yet; there are 6 remaining clues
+clue found at [20:7] : It was not done in the BilliardRoom
+actual clue at [20:7] : BilliardRoom
+cannot solve clue yet; there are 6 remaining clues
+cell to attack [20:9] owned by carlyRaeJepsen 
+no clue found at [20:8]
+no clue found at [20:8]
+no clue found at [20:8]
+no clue found at [20:8]
+cell to attack [20:10] owned by carlyRaeJepsen 
+no clue found at [20:9]
+no clue found at [20:9]
+no clue found at [20:9]
+no clue found at [20:9]
+cell to attack [20:11] owned by carlyRaeJepsen 
+no clue found at [20:10]
+no clue found at [20:10]
+no clue found at [20:10]
+no clue found at [20:10]
+cell to attack [20:12] owned by carlyRaeJepsen 
+no clue found at [20:11]
+no clue found at [20:11]
+no clue found at [20:11]
+no clue found at [20:11]
+cell to attack [20:13] owned by carlyRaeJepsen 
+no clue found at [20:12]
+no clue found at [20:12]
+no clue found at [20:12]
+no clue found at [20:12]
+cell to attack [20:14] owned by carlyRaeJepsen 
+no clue found at [20:13]
+no clue found at [20:13]
+no clue found at [20:13]
+no clue found at [20:13]
+cell to attack [20:15] owned by carlyRaeJepsen 
+no clue found at [20:14]
+no clue found at [20:14]
+no clue found at [20:14]
+no clue found at [20:14]
+cell to attack [20:16] owned by carlyRaeJepsen 
+no clue found at [20:15]
+no clue found at [20:15]
+no clue found at [20:15]
+no clue found at [20:15]
+cell to attack [20:17] owned by carlyRaeJepsen 
+no clue found at [20:16]
+no clue found at [20:16]
+no clue found at [20:16]
+no clue found at [20:16]
+cell to attack [20:18] owned by carlyRaeJepsen 
+no clue found at [20:17]
+no clue found at [20:17]
+no clue found at [20:17]
+no clue found at [20:17]
+cell to attack [20:19] owned by carlyRaeJepsen 
+no clue found at [20:18]
+no clue found at [20:18]
+no clue found at [20:18]
+no clue found at [20:18]
+cell to attack [20:20] owned by carlyRaeJepsen 
+no clue found at [20:19]
+no clue found at [20:19]
+no clue found at [20:19]
+no clue found at [20:19]
+cell to attack [20:21] owned by carlyRaeJepsen 
+no clue found at [20:20]
+no clue found at [20:20]
+no clue found at [20:20]
+no clue found at [20:20]
+cell to attack [20:22] owned by carlyRaeJepsen 
+no clue found at [20:21]
+no clue found at [20:21]
+no clue found at [20:21]
+no clue found at [20:21]
+cell to attack [20:23] owned by carlyRaeJepsen 
+no clue found at [20:22]
+no clue found at [20:22]
+no clue found at [20:22]
+no clue found at [20:22]
+cell to attack [20:24] owned by carlyRaeJepsen 
+no clue found at [20:23]
+no clue found at [20:23]
+no clue found at [20:23]
+no clue found at [20:23]
+cell to attack [21:0] owned by carlyRaeJepsen 
+clue found at [20:24] : It was not done with Knife
+actual clue at [20:24] : Knife
+cannot solve clue yet; there are 5 remaining clues
+clue found at [20:24] : It was not done with Knife
+actual clue at [20:24] : Knife
+cannot solve clue yet; there are 5 remaining clues
+clue found at [20:24] : It was not done with Knife
+actual clue at [20:24] : Knife
+cannot solve clue yet; there are 5 remaining clues
+clue found at [20:24] : It was not done with Knife
+actual clue at [20:24] : Knife
+cannot solve clue yet; there are 5 remaining clues
+cell to attack [21:1] owned by carlyRaeJepsen 
+no clue found at [21:0]
+no clue found at [21:0]
+no clue found at [21:0]
+no clue found at [21:0]
+cell to attack [21:2] owned by carlyRaeJepsen 
+no clue found at [21:1]
+no clue found at [21:1]
+no clue found at [21:1]
+no clue found at [21:1]
+cell to attack [21:3] owned by carlyRaeJepsen 
+no clue found at [21:2]
+no clue found at [21:2]
+no clue found at [21:2]
+no clue found at [21:2]
+cell to attack [21:4] owned by carlyRaeJepsen 
+no clue found at [21:3]
+no clue found at [21:3]
+no clue found at [21:3]
+no clue found at [21:3]
+cell to attack [21:5] owned by carlyRaeJepsen 
+no clue found at [21:4]
+no clue found at [21:4]
+no clue found at [21:4]
+no clue found at [21:4]
+cell to attack [21:6] owned by carlyRaeJepsen 
+no clue found at [21:5]
+no clue found at [21:5]
+no clue found at [21:5]
+no clue found at [21:5]
+cell to attack [21:7] owned by carlyRaeJepsen 
+no clue found at [21:6]
+no clue found at [21:6]
+no clue found at [21:6]
+no clue found at [21:6]
+cell to attack [21:8] owned by carlyRaeJepsen 
+no clue found at [21:7]
+no clue found at [21:7]
+no clue found at [21:7]
+no clue found at [21:7]
+cell to attack [21:9] owned by carlyRaeJepsen 
+no clue found at [21:8]
+no clue found at [21:8]
+no clue found at [21:8]
+no clue found at [21:8]
+cell to attack [21:10] owned by carlyRaeJepsen 
+no clue found at [21:9]
+no clue found at [21:9]
+no clue found at [21:9]
+no clue found at [21:9]
+cell to attack [21:11] owned by carlyRaeJepsen 
+no clue found at [21:10]
+no clue found at [21:10]
+no clue found at [21:10]
+no clue found at [21:10]
+cell to attack [21:12] owned by carlyRaeJepsen 
+no clue found at [21:11]
+no clue found at [21:11]
+no clue found at [21:11]
+no clue found at [21:11]
+cell to attack [21:13] owned by carlyRaeJepsen 
+no clue found at [21:12]
+no clue found at [21:12]
+no clue found at [21:12]
+no clue found at [21:12]
+cell to attack [21:14] owned by carlyRaeJepsen 
+no clue found at [21:13]
+no clue found at [21:13]
+no clue found at [21:13]
+no clue found at [21:13]
+cell to attack [21:15] owned by carlyRaeJepsen 
+no clue found at [21:14]
+no clue found at [21:14]
+no clue found at [21:14]
+no clue found at [21:14]
+cell to attack [21:16] owned by carlyRaeJepsen 
+no clue found at [21:15]
+no clue found at [21:15]
+no clue found at [21:15]
+no clue found at [21:15]
+cell to attack [21:17] owned by carlyRaeJepsen 
+no clue found at [21:16]
+no clue found at [21:16]
+no clue found at [21:16]
+no clue found at [21:16]
+cell to attack [21:18] owned by carlyRaeJepsen 
+no clue found at [21:17]
+no clue found at [21:17]
+no clue found at [21:17]
+no clue found at [21:17]
+cell to attack [21:19] owned by carlyRaeJepsen 
+no clue found at [21:18]
+no clue found at [21:18]
+no clue found at [21:18]
+no clue found at [21:18]
+cell to attack [21:20] owned by carlyRaeJepsen 
+board data updated
+no clue found at [21:19]
+no clue found at [21:19]
+no clue found at [21:19]
+no clue found at [21:19]
+cell to attack [21:21] owned by carlyRaeJepsen 
+no clue found at [21:20]
+no clue found at [21:20]
+no clue found at [21:20]
+no clue found at [21:20]
+cell to attack [21:22] owned by carlyRaeJepsen 
+no clue found at [21:21]
+no clue found at [21:21]
+no clue found at [21:21]
+no clue found at [21:21]
+cell to attack [21:23] owned by carlyRaeJepsen 
+no clue found at [21:22]
+no clue found at [21:22]
+no clue found at [21:22]
+no clue found at [21:22]
+cell to attack [21:24] owned by carlyRaeJepsen 
+no clue found at [21:23]
+no clue found at [21:23]
+no clue found at [21:23]
+no clue found at [21:23]
+cell to attack [22:0] owned by carlyRaeJepsen 
+clue found at [21:24] : It was not done by MrsWhite
+actual clue at [21:24] : MrsWhite
+cannot solve clue yet; there are 4 remaining clues
+clue found at [21:24] : It was not done by MrsWhite
+actual clue at [21:24] : MrsWhite
+cannot solve clue yet; there are 4 remaining clues
+clue found at [21:24] : It was not done by MrsWhite
+actual clue at [21:24] : MrsWhite
+cannot solve clue yet; there are 4 remaining clues
+clue found at [21:24] : It was not done by MrsWhite
+actual clue at [21:24] : MrsWhite
+cannot solve clue yet; there are 4 remaining clues
+cell to attack [22:1] owned by carlyRaeJepsen 
+no clue found at [22:0]
+no clue found at [22:0]
+no clue found at [22:0]
+no clue found at [22:0]
+cell to attack [22:2] owned by carlyRaeJepsen 
+no clue found at [22:1]
+no clue found at [22:1]
+no clue found at [22:1]
+no clue found at [22:1]
+cell to attack [22:3] owned by carlyRaeJepsen 
+no clue found at [22:2]
+no clue found at [22:2]
+no clue found at [22:2]
+no clue found at [22:2]
+cell to attack [22:4] owned by carlyRaeJepsen 
+no clue found at [22:3]
+no clue found at [22:3]
+no clue found at [22:3]
+no clue found at [22:3]
+cell to attack [22:5] owned by carlyRaeJepsen 
+no clue found at [22:4]
+no clue found at [22:4]
+no clue found at [22:4]
+no clue found at [22:4]
+cell to attack [22:6] owned by carlyRaeJepsen 
+no clue found at [22:5]
+no clue found at [22:5]
+no clue found at [22:5]
+no clue found at [22:5]
+cell to attack [22:7] owned by carlyRaeJepsen 
+no clue found at [22:6]
+no clue found at [22:6]
+no clue found at [22:6]
+no clue found at [22:6]
+cell to attack [22:8] owned by carlyRaeJepsen 
+no clue found at [22:7]
+no clue found at [22:7]
+no clue found at [22:7]
+no clue found at [22:7]
+cell to attack [22:9] owned by carlyRaeJepsen 
+no clue found at [22:8]
+no clue found at [22:8]
+no clue found at [22:8]
+no clue found at [22:8]
+cell to attack [22:10] owned by carlyRaeJepsen 
+no clue found at [22:9]
+no clue found at [22:9]
+no clue found at [22:9]
+no clue found at [22:9]
+cell to attack [22:11] owned by carlyRaeJepsen 
+no clue found at [22:10]
+no clue found at [22:10]
+no clue found at [22:10]
+no clue found at [22:10]
+cell to attack [22:12] owned by carlyRaeJepsen 
+no clue found at [22:11]
+no clue found at [22:11]
+no clue found at [22:11]
+no clue found at [22:11]
+cell to attack [22:13] owned by carlyRaeJepsen 
+no clue found at [22:12]
+no clue found at [22:12]
+no clue found at [22:12]
+no clue found at [22:12]
+cell to attack [22:14] owned by carlyRaeJepsen 
+no clue found at [22:13]
+no clue found at [22:13]
+no clue found at [22:13]
+no clue found at [22:13]
+cell to attack [22:15] owned by carlyRaeJepsen 
+no clue found at [22:14]
+no clue found at [22:14]
+no clue found at [22:14]
+no clue found at [22:14]
+cell to attack [22:16] owned by carlyRaeJepsen 
+no clue found at [22:15]
+no clue found at [22:15]
+no clue found at [22:15]
+no clue found at [22:15]
+cell to attack [22:17] owned by carlyRaeJepsen 
+no clue found at [22:16]
+no clue found at [22:16]
+no clue found at [22:16]
+no clue found at [22:16]
+cell to attack [22:18] owned by carlyRaeJepsen 
+no clue found at [22:17]
+no clue found at [22:17]
+no clue found at [22:17]
+no clue found at [22:17]
+cell to attack [22:19] owned by  
+clue found at [22:18] : It was not done with Candlestick
+actual clue at [22:18] : Candlestick
+solving clue: MissScarlet LeadPipe Conservatory

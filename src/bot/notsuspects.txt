@@ -1,0 +1,18 @@
+clue found at [0:21] : It was not done in the Lounge
+clue found at [1:13] : It was not done by ReverendGreen
+clue found at [2:9] : It was not done with Wrench
+clue found at [5:14] : It was not done with Rope
+clue found at [6:2] : It was not done in the DiningRoom
+clue found at [7:15] : It was not done in the Study
+clue found at [9:18] : It was not done by MrsPeacock
+clue found at [10:0] : It was not done in the Hall
+clue found at [10:16] : It was not done in the Kitchen
+clue found at [15:5] : It was not done with Revolver
+clue found at [16:0] : It was not done by ProfessorPlum
+clue found at [16:3] : It was not done in the Ballroom
+clue found at [17:18] : It was not done by ColonelMustard
+clue found at [18:4] : It was not done in the Library
+clue found at [20:7] : It was not done in the BilliardRoom
+clue found at [20:24] : It was not done with Knife
+clue found at [21:24] : It was not done by MrsWhite
+clue found at [22:18] : It was not done with Candlestick
